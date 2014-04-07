@@ -7,4 +7,6 @@
 *.so.*
 .deps
 .pch
+GmatConsole
+GmatLog.txt
 
