@@ -4,4 +4,7 @@
 *.o
 *.a
 *.so
+*.so.*
+.deps
+.pch
 
