@@ -3,7 +3,7 @@
 
 # Flags used to control the build
 USE_SPICE = 0
-CONSOLE_APP = 1
+CONSOLE_APP = 0
 DEBUG_BUILD = 0
 PROFILE_BUILD = 0
 WX_28_SYNTAX = 1
@@ -17,11 +17,11 @@ USE_64_BIT_LONGS = 1
 # If the copy of wx-config you need is not in your path, enter the path to the
 # file here, including a terminating slash.  (The commented version is an 
 # example, showing what you would use if wx-config were in /usr/local/bin)
-TOP_DIR = ../gmat/
-WX_CONFIG_PATH = ../wxGTK/wxGTK-2.8.12/build-gmat/build-gmat/
-WX_INSTALLED = ../wxGTK/wxGTK-2.8.12/build-gmat/build-gmat/
-WX_LIB_LOC = ../wxGTK/wxGTK-2.8.12/build-gmat/lib/
-SPICE_DIR = ../cspice/
+TOP_DIR = ../../../gmat/
+WX_CONFIG_PATH = ../../../wxGTK/wxGTK-2.8.12/build-gmat/
+WX_INSTALLED = ../../../wxGTK/wxGTK-2.8.12/build-gmat/
+WX_LIB_LOC = ../../../wxGTK/wxGTK-2.8.12/build-gmat/lib/
+SPICE_DIR = ../../../cspice/
 
 # WX_CONFIG_PATH = 
 # WX_CONFIG_PATH = /usr/local/bin/
