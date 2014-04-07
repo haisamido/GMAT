@@ -2,8 +2,8 @@
 # Build environment file for Linux
 
 # Flags used to control the build
-USE_SPICE = 1
-CONSOLE_APP = 0
+USE_SPICE = 0
+CONSOLE_APP = 1
 DEBUG_BUILD = 0
 PROFILE_BUILD = 0
 WX_28_SYNTAX = 1
@@ -17,14 +17,19 @@ USE_64_BIT_LONGS = 1
 # If the copy of wx-config you need is not in your path, enter the path to the
 # file here, including a terminating slash.  (The commented version is an 
 # example, showing what you would use if wx-config were in /usr/local/bin)
+TOP_DIR = ../gmat/
+WX_CONFIG_PATH = ../wxGTK/wxGTK-2.8.12/build-gmat/build-gmat/
+WX_INSTALLED = ../wxGTK/wxGTK-2.8.12/build-gmat/build-gmat/
+WX_LIB_LOC = ../wxGTK/wxGTK-2.8.12/build-gmat/lib/
+SPICE_DIR = ../cspice/
 
-WX_CONFIG_PATH = 
+# WX_CONFIG_PATH = 
 # WX_CONFIG_PATH = /usr/local/bin/
 
 ifeq ($(USE_SPICE), 1)
 # location of CSPICE headers and libraries
 # *** EDIT THIS *** -this is where you installed the version of CSPICE that you're using ...
-SPICE_DIR = /home/djc/TS_Code/Gmat3rdParty
+#SPICE_DIR = /home/djc/TS_Code/Gmat3rdParty
 SPICE_INCLUDE = -I$(SPICE_DIR)/cspice/include
 SPICE_LIB_DIR = $(SPICE_DIR)/cspice/lib
 SPICE_LIBRARIES = $(SPICE_LIB_DIR)/cspice.a
@@ -120,12 +125,13 @@ CPPFLAGS = $(CPP_BASE) $(PROFILE_FLAGS) $(DEBUG_FLAGS) $(STC_CPP_FLAGS) -fPIC
 
 F77_FLAGS = $(CPPFLAGS)
 
-F2C_FLAGS = -lgfortran -lm
+F2C_FLAGS = -lgfortran -ldl -lm /usr/lib64/libf2c.a
+
 # F2C_FLAGS = -lf2c
 
 # Link specific flags
 LINK_FLAGS = $(WXLINKFLAGS) $(SPICE_LIBRARIES) $(DEBUG_FLAGS) $(STC_LIBRARIES) \
              $(PROFILE_FLAGS) $(F2C_FLAGS)
 
-CONSOLE_LINK_FLAGS = -L../../base/lib -lgfortran -ldl $(DEBUG_FLAGS) \
+CONSOLE_LINK_FLAGS = -L../base/lib $(F2C_FLAGS) $(DEBUG_FLAGS) \
                      $(PROFILE_FLAGS)

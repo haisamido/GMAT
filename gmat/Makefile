@@ -4,7 +4,8 @@
 # This file is really just a convenience.  In eclipse, it's useful to have a
 # root level file that calls into the source tree.
 
-BUILD_64BIT = 0
+BUILD_64BIT = 1
+PLATFORM = linux
 
 ifeq ($(PLATFORM), )
 PLATFORM = windows
