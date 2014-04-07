@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/gmat/code/!svn/ver/12118/trunk/build/windows-VS2010
+END
+GmatVS2010.sln
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11884/trunk/build/windows-VS2010/GmatVS2010.sln
+END
+assemble.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/12105/trunk/build/windows-VS2010/assemble.sh
+END
+f2c64.zip
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/9519/trunk/build/windows-VS2010/f2c64.zip
+END
+wxmsw.zip
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/9519/trunk/build/windows-VS2010/wxmsw.zip
+END
+wxWidgets.zip
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/9641/trunk/build/windows-VS2010/wxWidgets.zip
+END
+GmatBuildandSend.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11928/trunk/build/windows-VS2010/GmatBuildandSend.cmd
+END
+GmatBuild.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/11928/trunk/build/windows-VS2010/GmatBuild.cmd
+END
+f2c.zip
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/gmat/code/!svn/ver/9519/trunk/build/windows-VS2010/f2c.zip
+END
+start.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/12102/trunk/build/windows-VS2010/start.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/11928/trunk/build/windows-VS2010/Makefile
+END

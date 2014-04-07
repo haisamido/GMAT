@@ -1,0 +1,80 @@
+10
+
+dir
+12138
+https://svn.code.sf.net/p/gmat/code/trunk/plugins/DataInterfacePlugin/src/base
+https://svn.code.sf.net/p/gmat/code
+
+
+
+2013-07-29T17:06:51.190538Z
+12073
+wendys-dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+222415a0-0dc2-4184-858d-a27cde375526
+
+include
+dir
+
+factory
+dir
+
+datainterface
+dir
+
+datareader
+dir
+
+Makefile
+file
+
+
+
+
+2014-04-04T18:55:15.430489Z
+97c9bce99ce707e16f195d2052936f3d
+2013-07-29T17:06:51.190538Z
+12073
+wendys-dev
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3014
+
+command
+dir
+
+plugin
+dir
+

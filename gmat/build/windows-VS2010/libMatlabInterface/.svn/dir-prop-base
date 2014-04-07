@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 89
+[Bb]in
+obj
+[Dd]ebug
+[Rr]elease
+*.user
+*.aps
+*.eto
+ReleaseWithSPICE
+x64
+ReleaseWithoutF2C
+
+END

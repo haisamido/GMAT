@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/gmat/code/!svn/ver/9965/trunk/application/data/gui_config
+END
+GroundTrackPlot.ini
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/gmat/code/!svn/ver/9965/trunk/application/data/gui_config/GroundTrackPlot.ini
+END
+Antenna.ini
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/9329/trunk/application/data/gui_config/Antenna.ini
+END
+Receiver.ini
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/9329/trunk/application/data/gui_config/Receiver.ini
+END
+VF13ad.ini
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/9839/trunk/application/data/gui_config/VF13ad.ini
+END
+FuelTank.ini
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/9403/trunk/application/data/gui_config/FuelTank.ini
+END
+Transmitter.ini
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/9329/trunk/application/data/gui_config/Transmitter.ini
+END
+MyGmat.ini
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/9854/trunk/application/data/gui_config/MyGmat.ini
+END
+Transponder.ini
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/9329/trunk/application/data/gui_config/Transponder.ini
+END

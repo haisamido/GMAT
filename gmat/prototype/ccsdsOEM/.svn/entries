@@ -1,0 +1,43 @@
+10
+
+dir
+12138
+https://svn.code.sf.net/p/gmat/code/trunk/prototype/ccsdsOEM
+https://svn.code.sf.net/p/gmat/code
+
+
+
+2013-05-29T18:00:30.506533Z
+11910
+stevenhughes
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+222415a0-0dc2-4184-858d-a27cde375526
+
+test
+dir
+
+@Ephemeris
+dir
+
+ephemfiles
+dir
+
+@EphemerisSegment
+dir
+
+util
+dir
+

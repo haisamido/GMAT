@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/gmat/code/!svn/ver/11880/trunk/depends/bin/cspice
+END
+cspice32-ftp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11880/trunk/depends/bin/cspice/cspice32-ftp.txt
+END
+cspice64-ftp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11880/trunk/depends/bin/cspice/cspice64-ftp.txt
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/gmat/code/!svn/ver/12005/trunk/src/base/interface
+END
+GmatInterface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9513/trunk/src/base/interface/GmatInterface.hpp
+END
+InterfaceException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/9513/trunk/src/base/interface/InterfaceException.cpp
+END
+SocketServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9882/trunk/src/base/interface/SocketServer.cpp
+END
+Interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/12005/trunk/src/base/interface/Interface.cpp
+END
+InterfaceException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/9513/trunk/src/base/interface/InterfaceException.hpp
+END
+SocketServer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9892/trunk/src/base/interface/SocketServer.hpp
+END
+Interface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/9513/trunk/src/base/interface/Interface.hpp
+END
+GmatInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9513/trunk/src/base/interface/GmatInterface.cpp
+END

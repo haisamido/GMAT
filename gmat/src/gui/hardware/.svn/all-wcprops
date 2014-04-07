@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/gmat/code/!svn/ver/12035/trunk/src/gui/hardware
+END
+ThrusterCoefficientDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/gmat/code/!svn/ver/11047/trunk/src/gui/hardware/ThrusterCoefficientDialog.cpp
+END
+ThrusterCoefficientDialog.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/gmat/code/!svn/ver/11047/trunk/src/gui/hardware/ThrusterCoefficientDialog.hpp
+END
+ThrusterConfigPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/hardware/ThrusterConfigPanel.cpp
+END
+BurnThrusterPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/12035/trunk/src/gui/hardware/BurnThrusterPanel.cpp
+END
+ThrusterConfigPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/hardware/ThrusterConfigPanel.hpp
+END
+BurnThrusterPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/12024/trunk/src/gui/hardware/BurnThrusterPanel.hpp
+END

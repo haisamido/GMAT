@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 189
+*.data
+*.report
+GmatLog.txt
+*.bsp
+*.txt
+vf13Baseline
+vf13CodeFix
+vf13NewF2c
+*.eph
+2011-09-13
+*.truth
+oldRuns
+LastGoodRun
+RoutineTests*
+ELSanityChecks
+EventData
+March8Run
+NewEventData
+*.gmd
+
+END

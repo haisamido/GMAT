@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation
+END
+SerializeHyphPattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/SerializeHyphPattern.html
+END
+Hyphenator.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/Hyphenator.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/package-use.html
+END
+Hyphenation.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/Hyphenation.html
+END
+ByteVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/ByteVector.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/package-summary.html
+END
+HyphenationTreeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/HyphenationTreeResolver.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/package-tree.html
+END
+PatternConsumer.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/PatternConsumer.html
+END
+PatternParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/PatternParser.html
+END
+HyphenationTreeCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/HyphenationTreeCache.html
+END
+Hyphen.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/Hyphen.html
+END
+TernaryTree.Iterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/TernaryTree.Iterator.html
+END
+CharVector.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/CharVector.html
+END
+TernaryTree.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/TernaryTree.html
+END
+HyphenationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/HyphenationException.html
+END
+HyphenationTree.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/hyphenation/HyphenationTree.html
+END

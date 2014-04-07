@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 43
+*.so
+*.dll
+*.exp
+*.lib
+*.pdb
+*.dylib
+debug
+
+END

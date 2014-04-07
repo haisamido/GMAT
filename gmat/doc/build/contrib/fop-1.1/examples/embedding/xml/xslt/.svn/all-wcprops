@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/embedding/xml/xslt
+END
+ifstamp.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/embedding/xml/xslt/ifstamp.xsl
+END
+projectteam2fo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/embedding/xml/xslt/projectteam2fo.xsl
+END
+atstamp.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/embedding/xml/xslt/atstamp.xsl
+END

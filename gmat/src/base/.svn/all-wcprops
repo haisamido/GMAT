@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/gmat/code/!svn/ver/12133/trunk/src/base
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/gmat/code/!svn/ver/10018/trunk/src/base/Doxyfile
+END
+MakeBase.eclipse
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/gmat/code/!svn/ver/12119/trunk/src/base/MakeBase.eclipse
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/gmat/code/!svn/ver/11881/trunk/src/base/CMakeLists.txt
+END

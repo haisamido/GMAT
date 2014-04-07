@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/PreliminaryEstimation
+END
+Simulate_LEO_Geometric_Range.script
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/PreliminaryEstimation/Simulate_LEO_Geometric_Range.script
+END
+Simulate_LEO_Geometric_RADEC.script
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/PreliminaryEstimation/Simulate_LEO_Geometric_RADEC.script
+END
+Simulate_LEO_USN_Ideal_TwoWayRange_GMATInternal.script
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/gmat/code/!svn/ver/11798/trunk/application/samples/PreliminaryEstimation/Simulate_LEO_USN_Ideal_TwoWayRange_GMATInternal.script
+END
+Estimate_LEO_Batch_GeometricRange.script
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/PreliminaryEstimation/Estimate_LEO_Batch_GeometricRange.script
+END
+Simulate_LEO_Geometric_RangeRate.script
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/PreliminaryEstimation/Simulate_LEO_Geometric_RangeRate.script
+END
+Simulate_LEO_Geometric_AZEL.script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/10492/trunk/application/samples/PreliminaryEstimation/Simulate_LEO_Geometric_AZEL.script
+END
+Simulate_LEO_TRDSS_Ideal_TwoWayRange_GMATInternal.script
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/PreliminaryEstimation/Simulate_LEO_TRDSS_Ideal_TwoWayRange_GMATInternal.script
+END

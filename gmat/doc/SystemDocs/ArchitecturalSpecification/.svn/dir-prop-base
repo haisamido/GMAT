@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 316
+*.aux
+*.dvi
+*.lof
+GMAT-Architectural-Specification.lot
+GMAT-Architectural-Specification.idx
+GMAT-Architectural-Specification.out
+GMAT-Architectural-Specification.toc
+GMAT-Architectural-Specification.ilg
+GMAT-Architectural-Specification.ind
+*.backup
+.iTM2
+GMAT-Architectural-Specification.texp
+*.bbl
+*.blg
+*.log
+*.ps
+
+END

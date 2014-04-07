@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/test
+END
+CompareSolvers.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/test/CompareSolvers.m
+END
+TestMinQP.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/test/TestMinQP.m
+END
+RunmiNLPTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/test/RunmiNLPTests.m
+END
+TestuncMin.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/test/TestuncMin.m
+END
+TestMATLABConstraintMode.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/test/TestMATLABConstraintMode.m
+END
+prepSNOPT.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/test/prepSNOPT.m
+END
+Fminconstraint.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/test/Fminconstraint.m
+END
+SNOPTObjCon.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/test/SNOPTObjCon.m
+END
+TestMiNLP.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/test/TestMiNLP.m
+END
+TestTrust.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/test/TestTrust.m
+END
+TestUncSolvers.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/test/TestUncSolvers.m
+END

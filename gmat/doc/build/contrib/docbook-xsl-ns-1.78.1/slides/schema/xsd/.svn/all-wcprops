@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd
+END
+slides.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/slides.xsd
+END
+calstbl.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/calstbl.xsd
+END
+gui.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/gui.xsd
+END
+tasks.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/tasks.xsd
+END
+toc.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/toc.xsd
+END
+xlink.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/xlink.xsd
+END
+callouts.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/callouts.xsd
+END
+refentry.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/refentry.xsd
+END
+qandaset.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/qandaset.xsd
+END
+keyboard.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/keyboard.xsd
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/xml.xsd
+END
+docbook1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/docbook1.xsd
+END
+msgset.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/msgset.xsd
+END
+htmltbl.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/htmltbl.xsd
+END
+index.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/index.xsd
+END
+ebnf.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/ebnf.xsd
+END
+refsect1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/refsect1.xsd
+END
+sect1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/sect1.xsd
+END
+os.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/os.xsd
+END
+programming.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/programming.xsd
+END
+mathml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/mathml.xsd
+END
+admonitions.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/admonitions.xsd
+END
+db.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/db.xsd
+END
+hier.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/hier.xsd
+END
+core.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/core.xsd
+END
+math.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/math.xsd
+END
+error.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/error.xsd
+END
+technical.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/technical.xsd
+END
+annotations.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/annotations.xsd
+END
+svg.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/svg.xsd
+END
+markup.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/markup.xsd
+END
+glossary.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/glossary.xsd
+END
+xlink1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/xlink1.xsd
+END
+pool.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/pool.xsd
+END
+bibliography.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/bibliography.xsd
+END
+topic.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/topic.xsd
+END
+product.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/product.xsd
+END
+docbook.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/xsd/docbook.xsd
+END

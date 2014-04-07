@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gmat/code/!svn/ver/11507/trunk/plugins/EstimationPlugin/src/base/measurement
+END
+GeometricRange.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricRange.hpp
+END
+USNTwoWayRange.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/USNTwoWayRange.hpp
+END
+AveragedDoppler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/AveragedDoppler.cpp
+END
+MeasurementModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/measurement/MeasurementModel.cpp
+END
+MediaCorrection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/measurement/MediaCorrection.cpp
+END
+GeometricRangeRate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricRangeRate.cpp
+END
+MeasurementException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/MeasurementException.hpp
+END
+AveragedDoppler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/AveragedDoppler.hpp
+END
+MeasurementModel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/measurement/MeasurementModel.hpp
+END
+MediaCorrection.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/measurement/MediaCorrection.hpp
+END
+GeometricRangeRate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricRangeRate.hpp
+END
+DSNTwoWayRange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/11507/trunk/plugins/EstimationPlugin/src/base/measurement/DSNTwoWayRange.cpp
+END
+MeasurementData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/MeasurementData.cpp
+END
+DSNTwoWayRange.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/DSNTwoWayRange.hpp
+END
+PhysicalMeasurement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11263/trunk/plugins/EstimationPlugin/src/base/measurement/PhysicalMeasurement.cpp
+END
+MeasurementData.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/MeasurementData.hpp
+END
+PhysicalMeasurement.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11263/trunk/plugins/EstimationPlugin/src/base/measurement/PhysicalMeasurement.hpp
+END
+TDRSSTwoWayRange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/TDRSSTwoWayRange.cpp
+END
+GeometricAzEl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricAzEl.cpp
+END
+TDRSSTwoWayRange.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/TDRSSTwoWayRange.hpp
+END
+TrackingData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/TrackingData.cpp
+END
+CoreMeasurement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11263/trunk/plugins/EstimationPlugin/src/base/measurement/CoreMeasurement.cpp
+END
+GeometricAzEl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricAzEl.hpp
+END
+TrackingData.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/measurement/TrackingData.hpp
+END
+CoreMeasurement.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/measurement/CoreMeasurement.hpp
+END
+OpticalAzEl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/OpticalAzEl.cpp
+END
+TwoWayRange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/TwoWayRange.cpp
+END
+SnTwoWayRange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/SnTwoWayRange.cpp
+END
+OpticalAzEl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/OpticalAzEl.hpp
+END
+TwoWayRange.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/TwoWayRange.hpp
+END
+SnTwoWayRange.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/SnTwoWayRange.hpp
+END
+GeometricRADec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricRADec.cpp
+END
+MeasurementManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/MeasurementManager.cpp
+END
+GeometricRADec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricRADec.hpp
+END
+EstimationDefs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/EstimationDefs.hpp
+END
+GeometricMeasurement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricMeasurement.cpp
+END
+OpticalAngles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/OpticalAngles.cpp
+END
+MeasurementManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/MeasurementManager.hpp
+END
+DSNTwoWayDoppler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/DSNTwoWayDoppler.cpp
+END
+GeometricMeasurement.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricMeasurement.hpp
+END
+OpticalAngles.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/OpticalAngles.hpp
+END
+DSNTwoWayDoppler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/DSNTwoWayDoppler.hpp
+END
+GeometricRange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/GeometricRange.cpp
+END
+USNTwoWayRange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/11217/trunk/plugins/EstimationPlugin/src/base/measurement/USNTwoWayRange.cpp
+END

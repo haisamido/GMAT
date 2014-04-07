@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<refentry version="5.0" xml:id="GroundStation"
+          xmlns="http://docbook.org/ns/docbook"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:xi="http://www.w3.org/2001/XInclude"
+          xmlns:svg="http://www.w3.org/2000/svg"
+          xmlns:m="http://www.w3.org/1998/Math/MathML"
+          xmlns:html="http://www.w3.org/1999/xhtml"
+          xmlns:db="http://docbook.org/ns/docbook">
+  <indexterm>
+    <primary>GroundStation</primary>
+  </indexterm>
+
+  <refmeta>
+    <refentrytitle>GroundStation</refentrytitle>
+
+    <refmiscinfo class="source">GMAT</refmiscinfo>
+
+    <refmiscinfo class="manual">Resources</refmiscinfo>
+  </refmeta>
+
+  <refnamediv>
+    <refname><guilabel>GroundStation</guilabel></refname>
+
+    <refpurpose>A ground station model.</refpurpose>
+  </refnamediv>
+
+  <refsection>
+    <title>Description</title>
+
+    <para>A <guilabel>GroundStation</guilabel> models a facility fixed to the
+    surface of a <guilabel>CelestialBody</guilabel>. There are several state
+    representations available for defining the location of a ground station
+    including Cartesian and spherical. This resource cannot be modified in the
+    Mission Sequence.</para>
+
+    <para><phrase role="ref_seealso">See Also</phrase>: <xref
+    linkend="CoordinateSystem"/></para>
+  </refsection>
+
+  <refsection>
+    <title>Fields</title>
+
+    <informaltable colsep="0" frame="topbot">
+      <tgroup cols="2">
+        <colspec colnum="1" colwidth="1.0*"/>
+
+        <colspec colnum="2" colwidth="3*"/>
+
+        <thead>
+          <row>
+            <entry>Field</entry>
+
+            <entry>Description</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          <row>
+            <entry><guilabel>Altitude</guilabel></entry>
+
+            <entry><para>The altitude of the station with respect to the
+            <guilabel>HorizonReference</guilabel>.</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>Real</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para>-∞ &lt; Real &lt; ∞</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para>0</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>km</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+
+          <row>
+            <entry><guilabel>CentralBody</guilabel></entry>
+
+            <entry><para>The central body of the
+            <guilabel>GroundStation</guilabel>.</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>String</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para><guilabel>Earth</guilabel>. (Ground stations are
+                    currenly only supported with respect to Earth)</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para><guilabel>Earth</guilabel></para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>N/A</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+
+          <row>
+            <entry><guilabel>HorizonReference</guilabel></entry>
+
+            <entry><para>The system used for the horizon.
+            <guilabel>Sphere</guilabel> is equivalent to Geocentric,
+            <guilabel>Ellipsoid</guilabel> is equivalent to
+            Geodetic.</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>String</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para><guilabel>Sphere, Ellipsoid</guilabel></para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para><guilabel>Sphere</guilabel></para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>N/A</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+
+          <row>
+            <entry><guilabel>Id</guilabel></entry>
+
+            <entry><para>The Id of the <guilabel>GroundStation</guilabel> used
+            in estimation and measurement modelling..</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>String</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para>Must begin with a letter; may contain letters,
+                    integers, dashes, underscores</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set,</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para>StationId</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>N/A</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+
+          <row>
+            <entry><guilabel>Latitude</guilabel></entry>
+
+            <entry><para>The latitude of the station with respect to
+            <guilabel>HorizonReference</guilabel>.</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>Real</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para>-90 &lt; Real &lt; 90</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para>0</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>deg.</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+
+          <row>
+            <entry><guilabel>Location1</guilabel></entry>
+
+            <entry><para>The first component of the
+            <guilabel>GroundStation</guilabel> location. When
+            <guilabel>StateType</guilabel> is <guilabel>Cartesian</guilabel>,
+            <guilabel>Location1</guilabel> is the x-component of station
+            location in the body-fixed system. When
+            <guilabel>StateType</guilabel> is <guilabel>Spherical</guilabel>
+            or <guilabel>Elliposoid</guilabel>, <guilabel>Location1</guilabel>
+            is the <guilabel>Longitude</guilabel> (deg.) of the
+            <guilabel>GroundStation</guilabel>.</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>Real</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para>-∞ &lt; Real &lt; ∞ for
+                    <guilabel>Cartesian</guilabel>, See
+                    <guilabel>Longitude</guilabel>,
+                    <guilabel>Latitude</guilabel>,
+                    <guilabel>Altitude</guilabel> for others.</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para>6378.1363</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>see description</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+
+          <row>
+            <entry><guilabel>Location2</guilabel></entry>
+
+            <entry><para>The second component of the
+            <guilabel>GroundStation</guilabel> location. When
+            <guilabel>StateType</guilabel> is <guilabel>Cartesian</guilabel>,
+            <guilabel>Location2</guilabel> is the y-component of station
+            location in the body-fixed system. When
+            <guilabel>StateType</guilabel> is <guilabel>Spherical</guilabel>
+            or <guilabel>Ellipsoid</guilabel>, <guilabel>Location2</guilabel>
+            is the <guilabel>Latitude</guilabel> (deg.) of the
+            <guilabel>GroundStation</guilabel>.</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>Real</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para>-∞ &lt; Real &lt; ∞ for
+                    <guilabel>Cartesian</guilabel>, See
+                    <guilabel>Longitude</guilabel>,
+                    <guilabel>Latitude</guilabel>,
+                    <guilabel>Altitude</guilabel> for others.</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para>0</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>see description</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+
+          <row>
+            <entry><guilabel>Location3</guilabel></entry>
+
+            <entry><para>The third component of the
+            <guilabel>GroundStation</guilabel> location. When
+            <guilabel>StateType</guilabel> is <guilabel>Cartesian</guilabel>,
+            <guilabel>Location3</guilabel> is the z-component of station
+            location in the body-fixed system. When
+            <guilabel>StateType</guilabel> is <guilabel>Spherical</guilabel>
+            or <guilabel>Elliposoid</guilabel>, <guilabel>Location3</guilabel>
+            is the height (km) of the <guilabel>GroundStation</guilabel> above
+            the reference shape.</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>Reals</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para>-∞ &lt; Real &lt; ∞ for
+                    <guilabel>Cartesian</guilabel>, See
+                    <guilabel>Longitude</guilabel>,
+                    <guilabel>Latitude</guilabel>,
+                    <guilabel>Altitude</guilabel> for others.</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set,</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para>0</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>see description</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+
+          <row>
+            <entry><guilabel>Longitude</guilabel></entry>
+
+            <entry><para>The longitude of the station.</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>Real</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para>value &gt;=0</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para>0</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>deg.</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+
+          <row>
+            <entry><guilabel>StateType</guilabel></entry>
+
+            <entry><para>The type of state used to define the location of the
+            ground station. For example, <guilabel>Cartesian</guilabel> or
+            <guilabel>Ellipsoid</guilabel>.</para><variablelist>
+                <varlistentry>
+                  <term>Data Type</term>
+
+                  <listitem>
+                    <para>String</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Allowed Values</term>
+
+                  <listitem>
+                    <para><guilabel>Cartesian</guilabel>,
+                    <guilabel>Spherical</guilabel>,
+                    <guilabel>Ellipsoid</guilabel></para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Access</term>
+
+                  <listitem>
+                    <para>set</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Default Value</term>
+
+                  <listitem>
+                    <para>Cartesian</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Units</term>
+
+                  <listitem>
+                    <para>N/A</para>
+                  </listitem>
+                </varlistentry>
+
+                <varlistentry>
+                  <term>Interfaces</term>
+
+                  <listitem>
+                    <para>GUI, script</para>
+                  </listitem>
+                </varlistentry>
+              </variablelist></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+  </refsection>
+
+  <refsection>
+    <title>GUI</title>
+
+    <para>To create a <guilabel>GroundSation</guilabel>, starting from the
+    <guilabel>Resource Tree</guilabel>:</para>
+
+    <orderedlist spacing="compact">
+      <listitem>
+        <para>Right-click the <guilabel>GroundStation</guilabel> folder and
+        select <guilabel>Add Ground Station</guilabel>.</para>
+      </listitem>
+
+      <listitem>
+        <para>Double-click <guilabel>GroundStation1</guilabel>.</para>
+      </listitem>
+    </orderedlist>
+
+    <screenshot>
+      <mediaobject>
+        <imageobject>
+          <imagedata align="center" contentdepth="100%"
+                     fileref="files/images/Resource_GroundStation_Default.png"
+                     scalefit="1" width="60%"/>
+        </imageobject>
+      </mediaobject>
+    </screenshot>
+
+    <para>You can set the ground station location in several state
+    representations. The <guilabel>Cartesian</guilabel> representation is
+    illustrated above. To set the <guilabel>Longitude</guilabel>,
+    <guilabel>Latitude</guilabel>, and <guilabel>Altitude</guilabel> to 45
+    deg., 270 deg., and 0.1 km respectively, with respect to the reference
+    ellipsoid:</para>
+
+    <orderedlist spacing="compact">
+      <listitem>
+        <para>In the <guilabel>StateType</guilabel> menu, select
+        <guilabel>Spherical</guilabel>.</para>
+      </listitem>
+
+      <listitem>
+        <para>In the <guilabel>HorizonReference</guilabel> menu, select
+        <guilabel>Ellipsoid.</guilabel></para>
+      </listitem>
+
+      <listitem>
+        <para>In the <guilabel>Latitude</guilabel> text box, type
+        <userinput>45</userinput>.</para>
+      </listitem>
+
+      <listitem>
+        <para>In the <guilabel>Longitude</guilabel> text box, type
+        <userinput>270</userinput>.</para>
+      </listitem>
+
+      <listitem>
+        <para>In the <guilabel>Altitude</guilabel> text box, type
+        <userinput>0.1</userinput>.</para>
+      </listitem>
+    </orderedlist>
+
+    <screenshot>
+      <mediaobject>
+        <imageobject>
+          <imagedata align="center" contentdepth="100%"
+                     fileref="files/images/Resource_GroundStation_Ellipsoid.png"
+                     scalefit="1" width="60%"/>
+        </imageobject>
+      </mediaobject>
+    </screenshot>
+  </refsection>
+
+  <refsection>
+    <title>Remarks</title>
+
+    <para>The <guilabel>GroundStation</guilabel> model allows you to configure
+    a facility by defining the location in body-fixed coordinates using one of
+    several state representations. GMAT supports
+    <guilabel>Cartesian</guilabel>, <guilabel>Sphere</guilabel>, and
+    <guilabel>Ellipsoid</guilabel> representations and examples below show how
+    to configure a <guilabel>GroundStation</guilabel> in each representation.
+    When using the <guilabel>Ellipsoid</guilabel> model or
+    <guilabel>Sphere</guilabel> representations, GMAT uses the physical
+    properties - flattening and radius for example - defined on the
+    <guilabel>CelestialBody</guilabel> resource.</para>
+  </refsection>
+
+  <refsection>
+    <title>Examples</title>
+
+    <informalexample>
+      <para>Configure a <guilabel>GroundStation</guilabel> in Geodetic
+      coordinates.</para>
+
+      <programlisting><code>Create GroundStation aGroundStation
+aGroundStation.CentralBody      = Earth
+aGroundStation.StateType        = Spherical
+aGroundStation.HorizonReference = Ellipsoid
+aGroundStation.Location1        = 60
+aGroundStation.Location2        = 45
+aGroundStation.Location3        = 0.01
+
+% or alternatively
+
+aGroundStation.Latitude  = 60
+aGroundStation.Longitude = 45
+aGroundStation.Altitude  = 0.01</code></programlisting>
+    </informalexample>
+
+    <informalexample>
+      <para>Configure a <guilabel>GroundStation</guilabel> in Geocentric
+      coordinates.</para>
+
+      <programlisting><code>Create GroundStation aGroundStation
+aGroundStation.CentralBody      = Earth
+aGroundStation.StateType        = Spherical
+aGroundStation.HorizonReference = Sphere
+aGroundStation.Location1        = 59.83308194090783
+aGroundStation.Location2        = 45
+aGroundStation.Location3        = -15.99424674414058
+
+% or alternatively
+
+aGroundStation.Latitude        = 59.83308194090783
+aGroundStation.Longitude       = 45
+aGroundStation.Altitude        = -15.99424674414058
+</code></programlisting>
+    </informalexample>
+
+    <informalexample>
+      <para>Configure a <guilabel>GroundStation</guilabel> in Geocentric
+      coordinates.</para>
+
+      <programlisting><code>Create GroundStation aGroundStation
+aGroundStation.CentralBody = Earth
+aGroundStation.StateType   = Cartesian
+aGroundStation.Location1   = 2260.697433050543
+aGroundStation.Location2   = 2260.697433050542
+aGroundStation.Location3   = 5500.485954732006
+</code></programlisting>
+    </informalexample>
+  </refsection>
+</refentry>

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/gmat/code/!svn/ver/11899/trunk/application/debug
+END
+GMAT.ini
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/gmat/code/!svn/ver/11824/trunk/application/debug/GMAT.ini
+END
+gmat_startup_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/11899/trunk/application/debug/gmat_startup_file.txt
+END

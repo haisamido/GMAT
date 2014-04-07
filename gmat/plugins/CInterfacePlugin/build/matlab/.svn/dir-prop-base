@@ -1,0 +1,11 @@
+K 14
+bugtraq:number
+V 4
+true
+K 10
+svn:ignore
+V 50
+interfacewrapper.m
+libCInterface_thunk_glnxa64.so
+
+END

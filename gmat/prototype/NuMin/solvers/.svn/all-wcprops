@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers
+END
+MinQP.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/MinQP.m
+END
+GetConDerivatives.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/GetConDerivatives.m
+END
+GetDerivatives.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/GetDerivatives.m
+END
+UncTrust.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/UncTrust.m
+END
+Numdiff.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/Numdiff.m
+END
+Uncmin.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/Uncmin.m
+END
+WolfeLineSearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/WolfeLineSearch.m
+END
+QRfac.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/QRfac.m
+END
+FindTrustStep.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/FindTrustStep.m
+END
+miNLP.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/miNLP.m
+END
+Householder.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/Householder.m
+END
+MinQP.asv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/MinQP.asv
+END
+miNLP_searchdir.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/solvers/miNLP_searchdir.m
+END

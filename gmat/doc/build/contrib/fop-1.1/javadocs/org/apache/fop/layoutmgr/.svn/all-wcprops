@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr
+END
+LayoutManagerMapping.PageNumberCitationLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.PageNumberCitationLayoutManagerMaker.html
+END
+KnuthBlockBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/KnuthBlockBox.html
+END
+PositionIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/PositionIterator.html
+END
+PaddingElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/PaddingElement.html
+END
+LayoutManagerMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.html
+END
+LayoutManagerMapping.ListItemLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.ListItemLayoutManagerMaker.html
+END
+KnuthPenalty.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/KnuthPenalty.html
+END
+LayoutManagerMapping.LeaderLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.LeaderLayoutManagerMaker.html
+END
+BlockLevelEventProducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BlockLevelEventProducer.html
+END
+UnresolvedListElementWithLength.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/UnresolvedListElementWithLength.html
+END
+LeafPosition.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LeafPosition.html
+END
+ElementListObserver.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/ElementListObserver.html
+END
+PageSequenceLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/PageSequenceLayoutManager.html
+END
+AbstractBreaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/AbstractBreaker.html
+END
+LayoutManagerMapping.BidiOverrideLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.BidiOverrideLayoutManagerMaker.html
+END
+ElementListUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/ElementListUtils.html
+END
+SpaceResolver.SpaceHandlingBreakPosition.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/SpaceResolver.SpaceHandlingBreakPosition.html
+END
+BlockLevelLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BlockLevelLayoutManager.html
+END
+LayoutManagerMapping.ExternalGraphicLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.ExternalGraphicLayoutManagerMaker.html
+END
+LayoutManagerMapping.WrapperLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.WrapperLayoutManagerMaker.html
+END
+LayoutManagerMapping.InlineContainerLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.InlineContainerLayoutManagerMaker.html
+END
+SpaceResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/SpaceResolver.html
+END
+InlineKnuthSequence.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/InlineKnuthSequence.html
+END
+BlockLevelEventProducer.Provider.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BlockLevelEventProducer.Provider.html
+END
+LayoutManagerMapping.PageNumberLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.PageNumberLayoutManagerMaker.html
+END
+LayoutManagerMapping.Maker.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.Maker.html
+END
+LayoutContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutContext.html
+END
+AreaAdditionUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/AreaAdditionUtil.html
+END
+LayoutManagerMapping.RetrieveMarkerLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.RetrieveMarkerLayoutManagerMaker.html
+END
+TopLevelLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/TopLevelLayoutManager.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/package-frame.html
+END
+Keep.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/Keep.html
+END
+SpaceSpecifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/SpaceSpecifier.html
+END
+LayoutManagerMapping.BlockLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.BlockLayoutManagerMaker.html
+END
+BlockContainerLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BlockContainerLayoutManager.html
+END
+BorderElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BorderElement.html
+END
+BreakingAlgorithm.KnuthNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BreakingAlgorithm.KnuthNode.html
+END
+RelSide.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/RelSide.html
+END
+LayoutManagerMapping.CharacterLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.CharacterLayoutManagerMaker.html
+END
+LayoutManagerMapping.BasicLinkLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.BasicLinkLayoutManagerMaker.html
+END
+UnresolvedListElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/UnresolvedListElement.html
+END
+BlockKnuthSequence.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BlockKnuthSequence.html
+END
+BreakElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BreakElement.html
+END
+LayoutManagerMapping.PageNumberCitationLastLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.PageNumberCitationLastLayoutManagerMaker.html
+END
+FlowLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/FlowLayoutManager.html
+END
+KnuthBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/KnuthBox.html
+END
+KnuthElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/KnuthElement.html
+END
+KnuthPossPosIter.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/KnuthPossPosIter.html
+END
+FootnoteBodyLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/FootnoteBodyLayoutManager.html
+END
+Position.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/Position.html
+END
+SpaceElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/SpaceElement.html
+END
+KnuthGlue.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/KnuthGlue.html
+END
+BalancingColumnBreakingAlgorithm.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BalancingColumnBreakingAlgorithm.html
+END
+ExternalDocumentLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/ExternalDocumentLayoutManager.html
+END
+Page.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/Page.html
+END
+LayoutManagerMapping.InstreamForeignObjectLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.InstreamForeignObjectLayoutManagerMaker.html
+END
+LayoutException.LayoutExceptionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutException.LayoutExceptionFactory.html
+END
+BorderOrPaddingElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BorderOrPaddingElement.html
+END
+BlockLayoutManager.ProxyLMiter.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BlockLayoutManager.ProxyLMiter.html
+END
+AbstractBreaker.BlockSequence.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/AbstractBreaker.BlockSequence.html
+END
+BreakOpportunity.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BreakOpportunity.html
+END
+BreakOpportunityHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BreakOpportunityHelper.html
+END
+LayoutManagerMapping.TableLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.TableLayoutManagerMaker.html
+END
+BlockLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BlockLayoutManager.html
+END
+PageProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/PageProvider.html
+END
+LayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMaker.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/package-tree.html
+END
+LayoutManagerMapping.BlockContainerLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.BlockContainerLayoutManagerMaker.html
+END
+LayoutException.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutException.html
+END
+AbstractLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/AbstractLayoutManager.html
+END
+SpaceResolver.SpaceHandlingPosition.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/SpaceResolver.SpaceHandlingPosition.html
+END
+LayoutManagerMapping.FOTextLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.FOTextLayoutManagerMaker.html
+END
+BlockStackingLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BlockStackingLayoutManager.html
+END
+BreakingAlgorithm.BestRecords.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BreakingAlgorithm.BestRecords.html
+END
+PageBreaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/PageBreaker.html
+END
+Adjustment.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/Adjustment.html
+END
+LayoutManagerMapping.ListBlockLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.ListBlockLayoutManagerMaker.html
+END
+KnuthSequence.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/KnuthSequence.html
+END
+AbstractPageSequenceLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/AbstractPageSequenceLayoutManager.html
+END
+ConditionalElementListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/ConditionalElementListener.html
+END
+ElementListObserver.Observer.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/ElementListObserver.Observer.html
+END
+ListElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/ListElement.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/package-use.html
+END
+BlockStackingLayoutManager.MappingPosition.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BlockStackingLayoutManager.MappingPosition.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/package-summary.html
+END
+AbstractBaseLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/AbstractBaseLayoutManager.html
+END
+BreakingAlgorithm.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/BreakingAlgorithm.html
+END
+LMiter.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LMiter.html
+END
+AbstractBreaker.PageBreakPosition.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/AbstractBreaker.PageBreakPosition.html
+END
+NonLeafPosition.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/NonLeafPosition.html
+END
+LayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManager.html
+END
+LayoutManagerMapping.FootnodeLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.FootnodeLayoutManagerMaker.html
+END
+LayoutManagerMapping.InlineLayoutManagerMaker.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/LayoutManagerMapping.InlineLayoutManagerMaker.html
+END
+TraitSetter.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/TraitSetter.html
+END
+StaticContentLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/StaticContentLayoutManager.html
+END

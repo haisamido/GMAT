@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/12020/trunk/doc/SystemDocs/ArchitecturalSpecification
+END
+Attitude.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Attitude.tex
+END
+Interfaces.tex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Interfaces.tex
+END
+SolarSystem.tex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/SolarSystem.tex
+END
+ScriptedMath.tex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/ScriptedMath.tex
+END
+TopLevel.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/TopLevel.tex
+END
+ExecComponents.tex
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/ExecComponents.tex
+END
+Moderator.tex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Moderator.tex
+END
+GmatGui.tex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/GmatGui.tex
+END
+Framework.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Framework.tex
+END
+ExtendingGMAT.tex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/ExtendingGMAT.tex
+END
+gmat-architecture_vol1.kilepr
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/gmat-architecture_vol1.kilepr
+END
+ConfigManager.tex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/ConfigManager.tex
+END
+Propagators.tex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Propagators.tex
+END
+PropagatorStates.tex
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/PropagatorStates.tex
+END
+Parameters.tex
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Parameters.tex
+END
+preface.tex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/preface.tex
+END
+Maneuvers.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Maneuvers.tex
+END
+SpacecraftDesign.tex
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/SpacecraftDesign.tex
+END
+SolverUtilities.tex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/SolverUtilities.tex
+END
+TopLevelScraps.tex
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/TopLevelScraps.tex
+END
+listings.sty
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/listings.sty
+END
+GmatGlossary.tex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/GmatGlossary.tex
+END
+ScriptRW.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/ScriptRW.tex
+END
+CoordinateSystems.tex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/CoordinateSystems.tex
+END
+GmatWorkFlow.tex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/GmatWorkFlow.tex
+END
+ForceModelDetails.tex
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/ForceModelDetails.tex
+END
+SDTools.tex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/SDTools.tex
+END
+supertabular.sty
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/supertabular.sty
+END
+CloneAssignment.tex
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/CloneAssignment.tex
+END
+DesignPatterns.tex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/DesignPatterns.tex
+END
+UMLRef.tex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/UMLRef.tex
+END
+CommandWrapperExample.tex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/CommandWrapperExample.tex
+END
+Hardware.tex
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Hardware.tex
+END
+Publisher.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Publisher.tex
+END
+Solvers.tex
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Solvers.tex
+END
+lstmisc.sty
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/lstmisc.sty
+END
+GMAT-Architectural-Specification.tex
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/12020/trunk/doc/SystemDocs/ArchitecturalSpecification/GMAT-Architectural-Specification.tex
+END
+ArchitectureIntro.tex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/ArchitectureIntro.tex
+END
+Philosophy.tex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Philosophy.tex
+END
+Sandbox.tex
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Sandbox.tex
+END
+caption2.sty
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/caption2.sty
+END
+caption3.sty
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/caption3.sty
+END
+type1cm.sty
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/type1cm.sty
+END
+Commands.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Commands.tex
+END
+CloneAssignment.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gmat/code/!svn/ver/10502/trunk/doc/SystemDocs/ArchitecturalSpecification/CloneAssignment.pdf
+END
+FactoryManager.tex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/FactoryManager.tex
+END
+lstlang1.sty
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/lstlang1.sty
+END
+PropagatorOverview.tex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/PropagatorOverview.tex
+END
+lstlang2.sty
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/lstlang2.sty
+END
+lstlang3.sty
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/lstlang3.sty
+END
+CoreClasses.tex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/CoreClasses.tex
+END
+GMAT-Architectural-Specification.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/12020/trunk/doc/SystemDocs/ArchitecturalSpecification/GMAT-Architectural-Specification.pdf
+END
+lstdoc.sty
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/lstdoc.sty
+END
+Functions.tex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Functions.tex
+END
+Moderator-Old.tex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Moderator-Old.tex
+END
+ArchCoverPage.tex
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/ArchCoverPage.tex
+END
+SelectedCommands.tex
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/SelectedCommands.tex
+END
+HelperUtilities.tex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/HelperUtilities.tex
+END
+watermark.sty
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/watermark.sty
+END
+caption.sty
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/caption.sty
+END
+Factories.tex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Factories.tex
+END
+GmatFunctionEndToEnd.tex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/GmatFunctionEndToEnd.tex
+END

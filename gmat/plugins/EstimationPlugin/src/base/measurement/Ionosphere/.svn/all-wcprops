@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere
+END
+cira.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/cira.c
+END
+iritec.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/iritec.c
+END
+Ionosphere.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/9570/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/Ionosphere.hpp
+END
+irifun.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/irifun.h
+END
+irisub.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/irisub.h
+END
+cira.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/cira.h
+END
+iritec.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/iritec.h
+END
+iridreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/iridreg.c
+END
+igrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/igrf.c
+END
+iridreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/iridreg.h
+END
+Ionosphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/Ionosphere.cpp
+END
+igrf.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/igrf.h
+END
+irifun.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/irifun.c
+END
+irisub.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/irisub.c
+END

@@ -1,0 +1,35 @@
+K 10
+svn:ignore
+V 621
+GMAT.exe
+GMAT.ilk
+GMAT.pdb
+GmatConsole.exe
+GmatConsole.ilk
+GmatConsole.pdb
+GmatLog.txt
+libCInterface.dll
+libCInterface.exp
+libCInterface.ilk
+libCInterface.lib
+libCInterface.pdb
+libGmatBase.dll
+libGmatBase.exp
+libGmatBase.ilk
+libGmatBase.lib
+libGmatBase.pdb
+wxbase28d_net_vc_custom.dll
+wxbase28d_odbc_vc_custom.dll
+wxbase28d_vc_custom.dll
+wxmsw28d_adv_vc_custom.dll
+wxmsw28d_aui_vc_custom.dll
+wxmsw28d_core_vc_custom.dll
+wxmsw28d_gl_vc_custom.dll
+wxmsw28d_html_vc_custom.dll
+wxmsw28d_media_vc_custom.dll
+wxmsw28d_netutils_vc_custom.dll
+wxmsw28d_richtext_vc_custom.dll
+wxmsw28d_stc_vc_custom.dll
+wxmsw28d_xrc_vc_custom.dll
+
+END

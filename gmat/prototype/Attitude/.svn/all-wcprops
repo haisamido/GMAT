@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/gmat/code/!svn/ver/11904/trunk/prototype/Attitude
+END
+TestAlignConstrainedRotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gmat/code/!svn/ver/10929/trunk/prototype/Attitude/TestAlignConstrainedRotation.m
+END
+ComputeAlignConstrainedDCM.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gmat/code/!svn/ver/10929/trunk/prototype/Attitude/ComputeAlignConstrainedDCM.m
+END
+aphi2R.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/gmat/code/!svn/ver/10929/trunk/prototype/Attitude/aphi2R.m
+END
+skew.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/gmat/code/!svn/ver/10929/trunk/prototype/Attitude/skew.m
+END
+TestAlignConstrainedRotation.asv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/gmat/code/!svn/ver/10929/trunk/prototype/Attitude/TestAlignConstrainedRotation.asv
+END
+ComputeAlignConstrainedDCM.asv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gmat/code/!svn/ver/10929/trunk/prototype/Attitude/ComputeAlignConstrainedDCM.asv
+END

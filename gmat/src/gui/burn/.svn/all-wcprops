@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/gmat/code/!svn/ver/12024/trunk/src/gui/burn
+END
+ImpulsiveBurnSetupPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/12024/trunk/src/gui/burn/ImpulsiveBurnSetupPanel.cpp
+END
+FiniteBurnSetupPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/burn/FiniteBurnSetupPanel.cpp
+END
+ImpulsiveBurnSetupPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/12024/trunk/src/gui/burn/ImpulsiveBurnSetupPanel.hpp
+END
+FiniteBurnSetupPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/burn/FiniteBurnSetupPanel.hpp
+END

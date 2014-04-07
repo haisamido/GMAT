@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng
+END
+technical.rng
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/technical.rng
+END
+annotations.rng
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/annotations.rng
+END
+svg.rng
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/svg.rng
+END
+markup.rng
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/markup.rng
+END
+glossary.rng
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/glossary.rng
+END
+pool.rng
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/pool.rng
+END
+bibliography.rng
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/bibliography.rng
+END
+topic.rng
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/topic.rng
+END
+slides.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/slides.rnc
+END
+product.rng
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/product.rng
+END
+docbook.rng
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/docbook.rng
+END
+slides.rng
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/slides.rng
+END
+calstbl.rng
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/calstbl.rng
+END
+gui.rng
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/gui.rng
+END
+toc.rng
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/toc.rng
+END
+xlink.rng
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/xlink.rng
+END
+tasks.rng
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/tasks.rng
+END
+callouts.rng
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/callouts.rng
+END
+refentry.rng
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/refentry.rng
+END
+qandaset.rng
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/qandaset.rng
+END
+keyboard.rng
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/keyboard.rng
+END
+docbook1.rng
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/docbook1.rng
+END
+msgset.rng
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/msgset.rng
+END
+htmltbl.rng
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/htmltbl.rng
+END
+index.rng
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/index.rng
+END
+ebnf.rng
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/ebnf.rng
+END
+refsect1.rng
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/refsect1.rng
+END
+sect1.rng
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/sect1.rng
+END
+os.rng
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/os.rng
+END
+programming.rng
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/programming.rng
+END
+mathml.rng
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/mathml.rng
+END
+admonitions.rng
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/admonitions.rng
+END
+hier.rng
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/hier.rng
+END
+core.rng
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/core.rng
+END
+math.rng
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/math.rng
+END
+error.rng
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/slides/schema/relaxng/error.rng
+END

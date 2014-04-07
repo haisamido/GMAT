@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/xalan-j
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/xalan-j/NOTICE.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/xalan-j/LICENSE.txt
+END
+serializer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/xalan-j/serializer.jar
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/xalan-j/xml-apis.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/xalan-j/xercesImpl.jar
+END
+xalan.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/xalan-j/xalan.jar
+END

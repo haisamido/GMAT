@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/factory
+END
+ReaderFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/factory/ReaderFactory.hpp
+END
+DataInterfaceCommandFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/factory/DataInterfaceCommandFactory.cpp
+END
+DataInterfaceFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/factory/DataInterfaceFactory.cpp
+END
+DataInterfaceCommandFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/factory/DataInterfaceCommandFactory.hpp
+END
+DataInterfaceFactory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/factory/DataInterfaceFactory.hpp
+END
+ReaderFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/factory/ReaderFactory.cpp
+END

@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 97
+gmatNoMatlab
+gmat
+gmat.exe
+plot
+GMAT_NoCCSDS
+GMAT
+install_libs_into_bundle_2_8_10_orig
+
+GMAT.exe
+
+END

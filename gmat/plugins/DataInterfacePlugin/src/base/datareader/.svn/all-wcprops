@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/datareader
+END
+DataReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/datareader/DataReader.hpp
+END
+FileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/datareader/FileReader.cpp
+END
+TcopsVHFAscii.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/datareader/TcopsVHFAscii.cpp
+END
+TcopsVHFData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/datareader/TcopsVHFData.cpp
+END
+FileReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/datareader/FileReader.hpp
+END
+TcopsVHFAscii.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11878/trunk/plugins/DataInterfacePlugin/src/base/datareader/TcopsVHFAscii.hpp
+END
+TcopsVHFData.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/datareader/TcopsVHFData.hpp
+END
+DataReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/datareader/DataReader.cpp
+END

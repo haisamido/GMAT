@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gmat/code/!svn/ver/12019/trunk/plugins/DataInterfacePlugin/src/base/datainterface
+END
+DataInterface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/12017/trunk/plugins/DataInterfacePlugin/src/base/datainterface/DataInterface.hpp
+END
+FileInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/12019/trunk/plugins/DataInterfacePlugin/src/base/datainterface/FileInterface.cpp
+END
+FileInterface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11977/trunk/plugins/DataInterfacePlugin/src/base/datainterface/FileInterface.hpp
+END
+DataInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/12017/trunk/plugins/DataInterfacePlugin/src/base/datainterface/DataInterface.cpp
+END

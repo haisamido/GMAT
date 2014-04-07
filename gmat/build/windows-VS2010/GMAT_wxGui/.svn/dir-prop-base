@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 119
+[Bb]in
+obj
+[Dd]ebug
+[Rr]elease
+*.user
+*.aps
+*.eto
+*.vcxproj.filters
+ReleaseWithoutF2C
+ReleaseWithSPICE
+x64
+GmatLog.txt
+
+END

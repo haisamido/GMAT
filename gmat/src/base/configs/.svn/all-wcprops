@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/gmat/code/!svn/ver/10757/trunk/src/base/configs
+END
+ConfigManagerException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/9513/trunk/src/base/configs/ConfigManagerException.cpp
+END
+ConfigManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10757/trunk/src/base/configs/ConfigManager.cpp
+END
+ConfigManagerException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/9513/trunk/src/base/configs/ConfigManagerException.hpp
+END
+ConfigManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10387/trunk/src/base/configs/ConfigManager.hpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemerisSegment
+END
+AttitudeEphemerisSegment.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemerisSegment/AttitudeEphemerisSegment.m
+END
+ParseEphemEpoch.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemerisSegment/ParseEphemEpoch.m
+END
+GetData.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemerisSegment/GetData.m
+END

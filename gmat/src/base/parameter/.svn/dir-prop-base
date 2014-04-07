@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 102
+*.directory
+AMatOrbitData.cpp
+AMatOrbitData.hpp
+OrbitAMatrixParameters.cpp
+OrbitAMatrixParameters.hpp
+
+END

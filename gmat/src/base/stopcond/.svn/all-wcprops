@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/gmat/code/!svn/ver/11945/trunk/src/base/stopcond
+END
+StopConditionException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/gmat/code/!svn/ver/9513/trunk/src/base/stopcond/StopConditionException.hpp
+END
+StopCondition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/10395/trunk/src/base/stopcond/StopCondition.hpp
+END
+StopCondition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11945/trunk/src/base/stopcond/StopCondition.cpp
+END

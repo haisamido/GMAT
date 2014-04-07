@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/f2clib/f2clib_windows
+END
+libf2c.a
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurement/Ionosphere/f2clib/f2clib_windows/libf2c.a
+END

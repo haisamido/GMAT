@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/hardware
+END
+Sensor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/hardware/Sensor.hpp
+END
+Transponder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/hardware/Transponder.cpp
+END
+Transmitter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/hardware/Transmitter.hpp
+END
+Signal.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/hardware/Signal.hpp
+END
+Antenna.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/hardware/Antenna.cpp
+END
+Receiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/hardware/Receiver.cpp
+END
+Transponder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/hardware/Transponder.hpp
+END
+RFHardware.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/hardware/RFHardware.cpp
+END
+Antenna.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/hardware/Antenna.hpp
+END
+Receiver.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/hardware/Receiver.hpp
+END
+Sensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/hardware/Sensor.cpp
+END
+RFHardware.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/hardware/RFHardware.hpp
+END
+Transmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/11253/trunk/plugins/EstimationPlugin/src/base/hardware/Transmitter.cpp
+END
+Signal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/hardware/Signal.cpp
+END

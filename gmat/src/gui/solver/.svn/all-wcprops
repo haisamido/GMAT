@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/gmat/code/!svn/ver/9518/trunk/src/gui/solver
+END
+SolverCreatePanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/SolverCreatePanel.cpp
+END
+SolverGoalsPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/SolverGoalsPanel.cpp
+END
+SolverSetupPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9518/trunk/src/gui/solver/SolverSetupPanel.hpp
+END
+SolverCreatePanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/SolverCreatePanel.hpp
+END
+SolverVariablesPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/SolverVariablesPanel.cpp
+END
+SQPSetupPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/SQPSetupPanel.cpp
+END
+SolverGoalsPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/SolverGoalsPanel.hpp
+END
+DCSetupPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/DCSetupPanel.cpp
+END
+SolverVariablesPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/SolverVariablesPanel.hpp
+END
+SQPSetupPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/SQPSetupPanel.hpp
+END
+SolverSetupPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9518/trunk/src/gui/solver/SolverSetupPanel.cpp
+END
+DCSetupPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/solver/DCSetupPanel.hpp
+END

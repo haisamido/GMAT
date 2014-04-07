@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 47
+Release
+libGmatFunction.vcxproj.user
+Debug
+x64
+
+END

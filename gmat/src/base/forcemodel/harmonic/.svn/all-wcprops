@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/gmat/code/!svn/ver/11345/trunk/src/base/forcemodel/harmonic
+END
+HarmonicGravityCof.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gmat/code/!svn/ver/9766/trunk/src/base/forcemodel/harmonic/HarmonicGravityCof.cpp
+END
+Harmonic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11345/trunk/src/base/forcemodel/harmonic/Harmonic.cpp
+END
+HarmonicGravityCof.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gmat/code/!svn/ver/9623/trunk/src/base/forcemodel/harmonic/HarmonicGravityCof.hpp
+END
+Harmonic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11345/trunk/src/base/forcemodel/harmonic/Harmonic.hpp
+END
+HarmonicGravityGrv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/gmat/code/!svn/ver/11296/trunk/src/base/forcemodel/harmonic/HarmonicGravityGrv.cpp
+END
+HarmonicGravity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/gmat/code/!svn/ver/10335/trunk/src/base/forcemodel/harmonic/HarmonicGravity.cpp
+END
+HarmonicGravityGrv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gmat/code/!svn/ver/9623/trunk/src/base/forcemodel/harmonic/HarmonicGravityGrv.hpp
+END
+HarmonicGravity.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gmat/code/!svn/ver/9766/trunk/src/base/forcemodel/harmonic/HarmonicGravity.hpp
+END

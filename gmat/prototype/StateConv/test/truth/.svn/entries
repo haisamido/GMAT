@@ -1,0 +1,80 @@
+10
+
+dir
+12138
+https://svn.code.sf.net/p/gmat/code/trunk/prototype/StateConv/test/truth
+https://svn.code.sf.net/p/gmat/code
+
+
+
+2013-04-28T13:03:31.516161Z
+11843
+jjkparker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+222415a0-0dc2-4184-858d-a27cde375526
+
+Planetographic
+dir
+
+InputStates.txt
+file
+
+
+
+
+2014-04-04T18:59:23.013955Z
+fda85a68042c4ca0f4e47e2517f9105c
+2013-04-28T13:03:31.516161Z
+11843
+jjkparker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2785
+
+Delaunay
+dir
+
+HyperbolicAsymptote
+dir
+
+NonsingularKeplerian
+dir
+
+Planetodetic
+dir
+
+ModifiedEquinoctial
+dir
+

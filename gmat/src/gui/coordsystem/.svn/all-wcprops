@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/gmat/code/!svn/ver/12087/trunk/src/gui/coordsystem
+END
+CoordSysCreateDialog.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/gmat/code/!svn/ver/11943/trunk/src/gui/coordsystem/CoordSysCreateDialog.hpp
+END
+CoordSystemConfigPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/gmat/code/!svn/ver/11943/trunk/src/gui/coordsystem/CoordSystemConfigPanel.cpp
+END
+CoordPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/11976/trunk/src/gui/coordsystem/CoordPanel.cpp
+END
+CoordSystemConfigPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/gmat/code/!svn/ver/11943/trunk/src/gui/coordsystem/CoordSystemConfigPanel.hpp
+END
+CoordSysCreateDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/gmat/code/!svn/ver/12087/trunk/src/gui/coordsystem/CoordSysCreateDialog.cpp
+END
+CoordPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/11976/trunk/src/gui/coordsystem/CoordPanel.hpp
+END

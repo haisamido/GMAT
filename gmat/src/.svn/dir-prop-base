@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 91
+BuildEnv.mk
+MakeGmat.eclipse
+ReworkInProgressMakeGmat.eclipse
+BuildEnv64.mk
+JRSources
+temp
+
+END

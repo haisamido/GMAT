@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 44
+lib
+measurementfile
+MakeMac64.eclipse
+lib64
+
+END

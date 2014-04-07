@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util
+END
+AFPResourceUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/AFPResourceUtil.html
+END
+CubicBezierApproximator.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/CubicBezierApproximator.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/package-frame.html
+END
+DefaultFOPResourceAccessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/DefaultFOPResourceAccessor.html
+END
+SimpleResourceAccessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/SimpleResourceAccessor.html
+END
+BinaryUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/BinaryUtils.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/package-summary.html
+END
+StringUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/StringUtils.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/package-tree.html
+END
+DTDEntityResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/DTDEntityResolver.html
+END
+ResourceAccessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/ResourceAccessor.html
+END
+StructuredFieldReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/util/StructuredFieldReader.html
+END

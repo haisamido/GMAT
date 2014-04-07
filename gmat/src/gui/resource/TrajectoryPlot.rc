@@ -1,0 +1,5 @@
+//$Id: TrajectoryPlot.rc 9514 2011-04-30 21:44:00Z djcinsb $
+
+open    BITMAP "bitmaps/open.bmp"
+zoomin  BITMAP "bitmaps/zoomin.bmp"
+zoomout BITMAP "bitmaps/zoomout.bmp"

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use
+END
+PFMInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use/PFMInputStream.html
+END
+AFMWritingDirectionMetrics.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use/AFMWritingDirectionMetrics.html
+END
+AFMParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use/AFMParser.html
+END
+Type1FontLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use/Type1FontLoader.html
+END
+PFBData.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use/PFBData.html
+END
+PFMFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use/PFMFile.html
+END
+AFMFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use/AFMFile.html
+END
+PFBParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use/PFBParser.html
+END
+AFMCharMetrics.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/type1/class-use/AFMCharMetrics.html
+END

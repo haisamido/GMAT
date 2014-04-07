@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11203/trunk/plugins/EventLocatorPlugin/src/base/event
+END
+Antumbra.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Antumbra.hpp
+END
+Penumbra.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Penumbra.hpp
+END
+Contact.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Contact.hpp
+END
+LineOfSight.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/LineOfSight.hpp
+END
+Eclipse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Eclipse.cpp
+END
+Elevation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/11203/trunk/plugins/EventLocatorPlugin/src/base/event/Elevation.cpp
+END
+Umbra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Umbra.cpp
+END
+Antumbra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Antumbra.cpp
+END
+Eclipse.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Eclipse.hpp
+END
+Penumbra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Penumbra.cpp
+END
+Contact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Contact.cpp
+END
+Elevation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Elevation.hpp
+END
+LineOfSight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/LineOfSight.cpp
+END
+Umbra.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/gmat/code/!svn/ver/10528/trunk/plugins/EventLocatorPlugin/src/base/event/Umbra.hpp
+END

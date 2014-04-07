@@ -1,0 +1,959 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals
+END
+ScriptInterpreterSequenceTopLevel.png
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ScriptInterpreterSequenceTopLevel.png
+END
+SandboxStateTransitions.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SandboxStateTransitions.png
+END
+SandboxInitializationOverview.png
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SandboxInitializationOverview.png
+END
+OptimizationClassesExternalOptimizers.png
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/OptimizationClassesExternalOptimizers.png
+END
+ThePropagatorClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ThePropagatorClasses.png
+END
+VF13adSolverClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/VF13adSolverClasses.png
+END
+CrossMathTree.svg
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CrossMathTree.svg
+END
+KalmanFilterStateMachine.png
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/KalmanFilterStateMachine.png
+END
+TheSandbox.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheSandbox.png
+END
+ThreeSatActivePropVector.png
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ThreeSatActivePropVector.png
+END
+PropPanel.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PropPanel.png
+END
+GMAT_UserPerspective.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GMAT_UserPerspective.png
+END
+ThreeSatPropVector.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ThreeSatPropVector.png
+END
+ScriptInterpreterClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ScriptInterpreterClasses.png
+END
+ThePrepareToPropagateMethod.png
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ThePrepareToPropagateMethod.png
+END
+ProcessFlowforGMATFunctionConstruction.png
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ProcessFlowforGMATFunctionConstruction.png
+END
+ScriptInterpreterSequenceAssignmentBlocks.png
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ScriptInterpreterSequenceAssignmentBlocks.png
+END
+PropVectorComponents.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PropVectorComponents.png
+END
+OptimizerBaseClassDetails.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/OptimizerBaseClassDetails.png
+END
+gThreeSatAttitudePropVector.png
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/gThreeSatAttitudePropVector.png
+END
+TheRepresentationConverterClass.png
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheRepresentationConverterClass.png
+END
+FactoryObjectCreation.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/FactoryObjectCreation.png
+END
+RunningintheSandbox.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/RunningintheSandbox.png
+END
+CallingSequenceforExternalOptimizersNestedStateMachine.png
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CallingSequenceforExternalOptimizersNestedStateMachine.png
+END
+satSep.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/satSep.png
+END
+SolverBaseClassDetails.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SolverBaseClassDetails.png
+END
+ScriptingInterfacesinGmatBase.png
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ScriptingInterfacesinGmatBase.png
+END
+SandboxCloneUpdates.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SandboxCloneUpdates.jpg
+END
+TheFactoryManager.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheFactoryManager.png
+END
+CallFunctionInitializeDetails.png
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CallFunctionInitializeDetails.png
+END
+PropagationOverview.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PropagationOverview.png
+END
+GMAT_Startup.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GMAT_Startup.png
+END
+InterfaceClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/InterfaceClasses.png
+END
+PropagationStartLogic.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PropagationStartLogic.png
+END
+CrossMathTree.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CrossMathTree.png
+END
+SpacecraftPanel.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SpacecraftPanel.png
+END
+PublisherStateTransitions.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PublisherStateTransitions.png
+END
+TargeterCommands.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TargeterCommands.png
+END
+InterfacePackages.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/InterfacePackages.png
+END
+PackagingDesignedforPlugIns.png
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PackagingDesignedforPlugIns.png
+END
+CommandClassHierarchy.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CommandClassHierarchy.png
+END
+ParseRecursion.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ParseRecursion.png
+END
+OptimizationClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/OptimizationClasses.png
+END
+PropagationandCoordinateSystems.png
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PropagationandCoordinateSystems.png
+END
+WritingaScript.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/WritingaScript.png
+END
+ScannerCommands.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ScannerCommands.png
+END
+GmatBaseSubclasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GmatBaseSubclasses.png
+END
+OptimizationStateMachine.png
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/OptimizationStateMachine.png
+END
+PropagationintheMCS.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PropagationintheMCS.png
+END
+AxisSystemDynamic.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/AxisSystemDynamic.png
+END
+ExternalOptimizationStateDiagram.png
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ExternalOptimizationStateDiagram.png
+END
+GetGeneratingStringDetails.png
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GetGeneratingStringDetails.png
+END
+ConfiguringSpacecraftProperties.png
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ConfiguringSpacecraftProperties.png
+END
+TheGmatFunctionClass.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheGmatFunctionClass.png
+END
+PropagatorInitialization.png
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PropagatorInitialization.png
+END
+TheFactorySubsystem.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheFactorySubsystem.png
+END
+InterpretingaGMATFunction.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/InterpretingaGMATFunction.png
+END
+BurnClassHierarchy.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/BurnClassHierarchy.png
+END
+SpacecraftCreation.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SpacecraftCreation.png
+END
+GmatBaseClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GmatBaseClasses.png
+END
+FunctionClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/FunctionClasses.png
+END
+ProcessFlowforGMATFunctionInitialization.png
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ProcessFlowforGMATFunctionInitialization.png
+END
+OptimizerCommands.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/OptimizerCommands.png
+END
+BatchLeastSquaresStateMachine.png
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/BatchLeastSquaresStateMachine.png
+END
+DotMathTreeExample.svg
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/DotMathTreeExample.svg
+END
+ThreeSatAttitudePropVector.png
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ThreeSatAttitudePropVector.png
+END
+ManeuverConfiguration.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ManeuverConfiguration.png
+END
+ExecutingaGMATFunction.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ExecutingaGMATFunction.png
+END
+UmlPackageSample.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/UmlPackageSample.png
+END
+GetGeneratingStringWritinganObjecttoScript.png
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GetGeneratingStringWritinganObjecttoScript.png
+END
+SpacecraftandFormation.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SpacecraftandFormation.png
+END
+VF13OptimizerPrototypePackaging.png
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/VF13OptimizerPrototypePackaging.png
+END
+InitializationoftheDerivativeModel.png
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/InitializationoftheDerivativeModel.png
+END
+ModeratorConfig.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ModeratorConfig.png
+END
+TheTimeSystemConverterClass.png
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheTimeSystemConverterClass.png
+END
+CSCreationSequence.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CSCreationSequence.png
+END
+CoordinateConversionControlFlow.png
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CoordinateConversionControlFlow.png
+END
+SpacecraftSave.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SpacecraftSave.png
+END
+PropVectorMaster.svg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PropVectorMaster.svg
+END
+GMATFunctionInitializationSandboxTasks.png
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GMATFunctionInitializationSandboxTasks.png
+END
+SolverCommands.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SolverCommands.png
+END
+ForceModelClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ForceModelClasses.png
+END
+MathTreeExecution.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/MathTreeExecution.png
+END
+ThePublisher.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ThePublisher.png
+END
+ReadingaScript.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ReadingaScript.png
+END
+TheDynamicLibraryClass.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheDynamicLibraryClass.png
+END
+AxisSystemInertial.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/AxisSystemInertial.png
+END
+DifferentialCorrectorStateMachine.png
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/DifferentialCorrectorStateMachine.png
+END
+CallingSequenceforExternalOptimizersInitialization.png
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CallingSequenceforExternalOptimizersInitialization.png
+END
+SettingSingleElementsinanOrbitState.png
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SettingSingleElementsinanOrbitState.png
+END
+CallingSequenceforExternalOptimizersExecution.png
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CallingSequenceforExternalOptimizersExecution.png
+END
+SolverClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SolverClasses.png
+END
+ScriptInterpreterSequenceDefinitionBlocks.png
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ScriptInterpreterSequenceDefinitionBlocks.png
+END
+InitializeSequence.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/InitializeSequence.png
+END
+OptimizationClassesExternalOptimizersCurrentCode.png
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/OptimizationClassesExternalOptimizersCurrentCode.png
+END
+ModeratorStateTransitions.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ModeratorStateTransitions.png
+END
+DotMathTreeExample.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/DotMathTreeExample.png
+END
+TheMessagingSubsystem.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheMessagingSubsystem.png
+END
+AxisSystemOverview.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/AxisSystemOverview.png
+END
+MissionTree.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/MissionTree.png
+END
+GMAT_ConfigureResource.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GMAT_ConfigureResource.png
+END
+GenericConfigPanelLinux.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GenericConfigPanelLinux.png
+END
+Highlevelcoordinatesystemclasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/Highlevelcoordinatesystemclasses.png
+END
+SolverCommandsNeededbyAllSolvers.png
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SolverCommandsNeededbyAllSolvers.png
+END
+TheCoordinateConverterClass.png
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheCoordinateConverterClass.png
+END
+ManeuverCreation.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ManeuverCreation.png
+END
+ClassesUsedinGMATandMATLABFunctions.png
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ClassesUsedinGMATandMATLABFunctions.png
+END
+SolverUtilityClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SolverUtilityClasses.png
+END
+GMAT_Stack.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GMAT_Stack.png
+END
+ScriptInterpreterSequenceCommandBlocks.png
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ScriptInterpreterSequenceCommandBlocks.png
+END
+ModeratorInteractions.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ModeratorInteractions.png
+END
+DoubleLunarSwingby.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/DoubleLunarSwingby.png
+END
+ModeratorCreate.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ModeratorCreate.png
+END
+TheSubscribers.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheSubscribers.png
+END
+GMAT_ConfigureCommand.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GMAT_ConfigureCommand.png
+END
+WrappersUsedbyCommands.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/WrappersUsedbyCommands.png
+END
+ScriptInterpreterSequenceCommentBlocks.png
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ScriptInterpreterSequenceCommentBlocks.png
+END
+FactoryRegistration.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/FactoryRegistration.png
+END
+CallingSequenceforExternalOptimizers.png
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CallingSequenceforExternalOptimizers.png
+END
+StateConversioninSpaceObjects.png
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/StateConversioninSpaceObjects.png
+END
+SpacecraftConfiguration.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SpacecraftConfiguration.png
+END
+PropagationStopLogic.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PropagationStopLogic.png
+END
+convertbatch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/convertbatch.sh
+END
+ThePhysicalModelClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ThePhysicalModelClasses.png
+END
+UmlActivitySample.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/UmlActivitySample.png
+END
+SandboxStateTransitions-Updated.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SandboxStateTransitions-Updated.jpg
+END
+ModeratorRun.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ModeratorRun.png
+END
+MathTreeInitialization.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/MathTreeInitialization.png
+END
+GMATLogicalPackages.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/GMATLogicalPackages.png
+END
+CommandBaseClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CommandBaseClasses.png
+END
+StoppingConditionClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/StoppingConditionClasses.png
+END
+BasicMissionRunLinux.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/BasicMissionRunLinux.png
+END
+UmlSequenceSample.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/UmlSequenceSample.png
+END
+MathParserTop.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/MathParserTop.png
+END
+nodePlusAop.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/nodePlusAop.png
+END
+TheModerator.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheModerator.png
+END
+SandboxClonePassToAll.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SandboxClonePassToAll.jpg
+END
+CommandParsingandValidation.png
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/CommandParsingandValidation.png
+END
+HierarchicalMissionTree.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/HierarchicalMissionTree.png
+END
+UmlStateSample.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/UmlStateSample.png
+END
+AttitudeClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/AttitudeClasses.png
+END
+TheSingletonPattern.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheSingletonPattern.png
+END
+ManeuverPanel.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ManeuverPanel.png
+END
+TheConfigurationManager.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TheConfigurationManager.png
+END
+MathClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/MathClasses.png
+END
+Ifdialogue.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/Ifdialogue.png
+END
+ParameterSubpanel.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ParameterSubpanel.png
+END
+Maneuverflow.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/Maneuverflow.png
+END
+SpacePointDetails.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SpacePointDetails.png
+END
+ScriptInterpreterSequenceWritingaScript.png
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ScriptInterpreterSequenceWritingaScript.png
+END
+MatrixExample.png
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/MatrixExample.png
+END
+ForceModelClassesWithSailPlugin.png
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ForceModelClassesWithSailPlugin.png
+END
+TimeConversioninSpaceObjects.png
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/TimeConversioninSpaceObjects.png
+END
+ThePropagateCommand.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ThePropagateCommand.png
+END
+ConverterClasses.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/ConverterClasses.png
+END
+UmlClassSample.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/UmlClassSample.png
+END
+SettingBurnParameters.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/SettingBurnParameters.png
+END
+PackageHierarchy.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/PackageHierarchy.png
+END
+EnvironmentalObjects.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/10498/trunk/doc/SystemDocs/ArchitecturalSpecification/Images/originals/EnvironmentalObjects.png
+END

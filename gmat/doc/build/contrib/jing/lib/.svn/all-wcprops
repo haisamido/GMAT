@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/lib
+END
+xslt.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/lib/xslt.rng
+END
+nrl.rng
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/lib/nrl.rng
+END
+relaxng.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/lib/relaxng.rnc
+END
+mns.rng
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/lib/mns.rng
+END
+schematron.rnc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/lib/schematron.rnc
+END
+relaxng.rng
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/lib/relaxng.rng
+END
+relaxCoreDatatypes.rng
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/lib/relaxCoreDatatypes.rng
+END
+relaxCore.rng
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/lib/relaxCore.rng
+END

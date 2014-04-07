@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/gmat/code/!svn/ver/12124/trunk/build/windows
+END
+BuiltinPluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/11229/trunk/build/windows/BuiltinPluginManager.cpp
+END
+BuiltinPluginManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/11229/trunk/build/windows/BuiltinPluginManager.hpp
+END
+VC-GMAT.sln
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/gmat/code/!svn/ver/10021/trunk/build/windows/VC-GMAT.sln
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/gmat/code/!svn/ver/11248/trunk/build/windows/README.txt
+END
+BuildEnv.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/gmat/code/!svn/ver/10149/trunk/build/windows/BuildEnv.mk
+END

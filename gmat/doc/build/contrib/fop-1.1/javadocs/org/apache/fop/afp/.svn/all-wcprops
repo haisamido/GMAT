@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp
+END
+AFPEventProducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPEventProducer.html
+END
+AFPImageObjectInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPImageObjectInfo.html
+END
+Startable.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/Startable.html
+END
+BorderPaintingInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/BorderPaintingInfo.html
+END
+PaintingInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/PaintingInfo.html
+END
+Completable.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/Completable.html
+END
+AFPBorderPainter.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPBorderPainter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/package-tree.html
+END
+AFPGraphicsObjectInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPGraphicsObjectInfo.html
+END
+AFPResourceInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPResourceInfo.html
+END
+StructuredData.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/StructuredData.html
+END
+AFPResourceLevelDefaults.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPResourceLevelDefaults.html
+END
+AFPPaintingState.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPPaintingState.html
+END
+AFPDataObjectInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPDataObjectInfo.html
+END
+AFPConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPConstants.html
+END
+AFPEventProducer.Provider.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPEventProducer.Provider.html
+END
+RectanglePaintingInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/RectanglePaintingInfo.html
+END
+AbstractAFPPainter.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AbstractAFPPainter.html
+END
+AFPGraphics2D.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPGraphics2D.html
+END
+AFPRectanglePainter.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPRectanglePainter.html
+END
+Streamable.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/Streamable.html
+END
+AFPDataObjectFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPDataObjectFactory.html
+END
+AFPTextDataInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPTextDataInfo.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/package-frame.html
+END
+AFPLineDataInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPLineDataInfo.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/package-use.html
+END
+DataStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/DataStream.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/package-summary.html
+END
+AFPDitheredRectanglePainter.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPDitheredRectanglePainter.html
+END
+AFPUnitConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPUnitConverter.html
+END
+AFPObjectAreaInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPObjectAreaInfo.html
+END
+AFPResourceLevel.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPResourceLevel.html
+END
+Factory.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/Factory.html
+END
+AFPStreamer.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPStreamer.html
+END
+AFPResourceManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/afp/AFPResourceManager.html
+END

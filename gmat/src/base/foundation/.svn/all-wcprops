@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/gmat/code/!svn/ver/12004/trunk/src/base/foundation
+END
+GmatState.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/9513/trunk/src/base/foundation/GmatState.hpp
+END
+TriggerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/9513/trunk/src/base/foundation/TriggerManager.cpp
+END
+ElementWrapper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/11288/trunk/src/base/foundation/ElementWrapper.hpp
+END
+GmatBaseException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/9513/trunk/src/base/foundation/GmatBaseException.cpp
+END
+TriggerManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/9513/trunk/src/base/foundation/TriggerManager.hpp
+END
+SpacePoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/11945/trunk/src/base/foundation/SpacePoint.cpp
+END
+GmatBaseException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/9513/trunk/src/base/foundation/GmatBaseException.hpp
+END
+SpacePoint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/11945/trunk/src/base/foundation/SpacePoint.hpp
+END
+ObjectInitializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11863/trunk/src/base/foundation/ObjectInitializer.cpp
+END
+Covariance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/9513/trunk/src/base/foundation/Covariance.cpp
+END
+StateManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9513/trunk/src/base/foundation/StateManager.cpp
+END
+ObjectInitializer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/10374/trunk/src/base/foundation/ObjectInitializer.hpp
+END
+Covariance.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/9513/trunk/src/base/foundation/Covariance.hpp
+END
+StateManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9969/trunk/src/base/foundation/StateManager.hpp
+END
+GmatBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/12004/trunk/src/base/foundation/GmatBase.cpp
+END
+GmatBase.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/11862/trunk/src/base/foundation/GmatBase.hpp
+END
+GmatState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/10791/trunk/src/base/foundation/GmatState.cpp
+END
+ElementWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/11411/trunk/src/base/foundation/ElementWrapper.cpp
+END

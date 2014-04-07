@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 74
+PropFlow.aux
+PropFlow.dvi
+PropFlow.pdf
+PropFlow.synctex.gz
+*.backup
+*.log
+
+END

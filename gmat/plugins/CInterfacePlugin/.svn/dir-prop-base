@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 67
+matlab-drivers
+new_srcCommon
+new_srcPlugin
+libCInterface.dylib
+doc
+
+END

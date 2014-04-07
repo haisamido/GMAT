@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/gmat/code/!svn/ver/12076/trunk/build/install/windows-nsis
+END
+gmat.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11808/trunk/build/install/windows-nsis/gmat.nsi
+END
+genfilelists.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/11793/trunk/build/install/windows-nsis/genfilelists.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/12076/trunk/build/install/windows-nsis/README.txt
+END
+WelcomeImage.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/gmat/code/!svn/ver/11793/trunk/build/install/windows-nsis/WelcomeImage.bmp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/12076/trunk/build/install/windows-nsis/Makefile
+END

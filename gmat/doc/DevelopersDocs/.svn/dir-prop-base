@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 209
+*.aux
+*.log
+*.backup
+AddingPhysicalModel.dvi
+AddingPhysicalModel.pdf
+AddingPhysicalModel.ps
+addingphysicalmodelstogmat.kilepr
+AddingPhysicalModel.tcp
+AddingPhysicalModel.tps
+*.~lock.GmatCppStyleGuide.docx#
+*~
+
+END

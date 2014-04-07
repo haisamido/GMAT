@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 83
+*.cd
+Debug
+Release
+ReleaseWithSPICE
+ReleaseWithoutF2C
+libGmatBase.vcxproj.user
+x64
+
+END

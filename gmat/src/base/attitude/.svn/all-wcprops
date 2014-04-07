@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/gmat/code/!svn/ver/12110/trunk/src/base/attitude
+END
+PrecessingSpinner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/12110/trunk/src/base/attitude/PrecessingSpinner.cpp
+END
+AttitudeException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/11130/trunk/src/base/attitude/AttitudeException.cpp
+END
+Kinematic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/11130/trunk/src/base/attitude/Kinematic.cpp
+END
+NadirPointing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/12110/trunk/src/base/attitude/NadirPointing.cpp
+END
+PrecessingSpinner.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/12110/trunk/src/base/attitude/PrecessingSpinner.hpp
+END
+SpiceAttitude.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11505/trunk/src/base/attitude/SpiceAttitude.cpp
+END
+AttitudeException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/11130/trunk/src/base/attitude/AttitudeException.hpp
+END
+Kinematic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/11130/trunk/src/base/attitude/Kinematic.hpp
+END
+NadirPointing.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/12110/trunk/src/base/attitude/NadirPointing.hpp
+END
+SpiceAttitude.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11250/trunk/src/base/attitude/SpiceAttitude.hpp
+END
+Spinner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/11572/trunk/src/base/attitude/Spinner.cpp
+END
+Spinner.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/11250/trunk/src/base/attitude/Spinner.hpp
+END
+Attitude.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/12110/trunk/src/base/attitude/Attitude.cpp
+END
+CSFixed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/11572/trunk/src/base/attitude/CSFixed.cpp
+END
+Attitude.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/12110/trunk/src/base/attitude/Attitude.hpp
+END
+CSFixed.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/11130/trunk/src/base/attitude/CSFixed.hpp
+END

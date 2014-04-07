@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles
+END
+InvalidFileTest_NoOriginator.aem
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest_NoOriginator.aem
+END
+InvalidFileTest_CommentBeforeVersion.aem
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest_CommentBeforeVersion.aem
+END
+InvalidFileTest_NoVersionNumber.aem
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest_NoVersionNumber.aem
+END
+InvalidFileTest_Quaternion_EulerRotSequenceSet.aem
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest_Quaternion_EulerRotSequenceSet.aem
+END
+KARI_AEM_File.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/KARI_AEM_File.txt
+END
+InvalidFileTest_NoCreationDate.aem
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest_NoCreationDate.aem
+END
+QuaternionFile.aem
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/QuaternionFile.aem
+END
+InvalidFileTest.aem
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest.aem
+END
+InvalidFileTest_InvalidLineInHeaderr.aem
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest_InvalidLineInHeaderr.aem
+END
+InvalidFileTest_InvalidLineInMetaData.aem
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest_InvalidLineInMetaData.aem
+END
+InvalidFileTest_Quaternion_MissingQuaternionType.aem
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest_Quaternion_MissingQuaternionType.aem
+END
+InvalidFileTest_Quaternion_RateFrameSet.aem
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/ephemfiles/InvalidFileTest_Quaternion_RateFrameSet.aem
+END

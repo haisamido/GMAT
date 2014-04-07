@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/11831/trunk/build/windows-VS2010/libCInterface
+END
+libCInterface.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gmat/code/!svn/ver/11831/trunk/build/windows-VS2010/libCInterface/libCInterface.vcxproj
+END
+buildMatlabPrototype.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/9925/trunk/build/windows-VS2010/libCInterface/buildMatlabPrototype.cmd
+END
+libCInterface.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/9665/trunk/build/windows-VS2010/libCInterface/libCInterface.vcxproj.filters
+END

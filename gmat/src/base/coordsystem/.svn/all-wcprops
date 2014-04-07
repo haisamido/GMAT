@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/gmat/code/!svn/ver/12038/trunk/src/base/coordsystem
+END
+BodySpinSunAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/12010/trunk/src/base/coordsystem/BodySpinSunAxes.cpp
+END
+EquatorAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/EquatorAxes.cpp
+END
+BodyFixedAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/BodyFixedAxes.hpp
+END
+ICRFAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/ICRFAxes.cpp
+END
+MJ2000EcAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MJ2000EcAxes.hpp
+END
+MOEEcAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MOEEcAxes.cpp
+END
+TopocentricAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TopocentricAxes.cpp
+END
+MODEcAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10899/trunk/src/base/coordsystem/MODEcAxes.hpp
+END
+TOEEcAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TOEEcAxes.cpp
+END
+GeocentricSolarEclipticAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/GeocentricSolarEclipticAxes.cpp
+END
+GeocentricSolarMagneticAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/GeocentricSolarMagneticAxes.hpp
+END
+TrueOfDateAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TrueOfDateAxes.cpp
+END
+TODEcAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TODEcAxes.hpp
+END
+MJ2000EqAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MJ2000EqAxes.hpp
+END
+MOEEqAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MOEEqAxes.cpp
+END
+CoordinateBase.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/11849/trunk/src/base/coordsystem/CoordinateBase.hpp
+END
+InertialAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/10885/trunk/src/base/coordsystem/InertialAxes.cpp
+END
+MeanOfDateAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MeanOfDateAxes.hpp
+END
+ITRFAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/ITRFAxes.hpp
+END
+MODEqAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10899/trunk/src/base/coordsystem/MODEqAxes.hpp
+END
+CoordinateSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11849/trunk/src/base/coordsystem/CoordinateSystem.cpp
+END
+TOEEqAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TOEEqAxes.cpp
+END
+LocalAlignedConstrainedAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/11853/trunk/src/base/coordsystem/LocalAlignedConstrainedAxes.hpp
+END
+TODEqAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TODEqAxes.hpp
+END
+DynamicAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/10885/trunk/src/base/coordsystem/DynamicAxes.cpp
+END
+BodyInertialAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/BodyInertialAxes.cpp
+END
+AxisSystem.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11849/trunk/src/base/coordsystem/AxisSystem.hpp
+END
+IAUFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/10899/trunk/src/base/coordsystem/IAUFile.cpp
+END
+ObjectReferencedAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gmat/code/!svn/ver/10899/trunk/src/base/coordsystem/ObjectReferencedAxes.hpp
+END
+CoordinateSystemException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gmat/code/!svn/ver/9513/trunk/src/base/coordsystem/CoordinateSystemException.hpp
+END
+CoordinateConverter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/gmat/code/!svn/ver/11530/trunk/src/base/coordsystem/CoordinateConverter.hpp
+END
+ItrfCoefficientsFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gmat/code/!svn/ver/11426/trunk/src/base/coordsystem/ItrfCoefficientsFile.cpp
+END
+ICRFFile.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/10899/trunk/src/base/coordsystem/ICRFFile.hpp
+END
+BodyFixedAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/11902/trunk/src/base/coordsystem/BodyFixedAxes.cpp
+END
+MJ2000EcAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MJ2000EcAxes.cpp
+END
+BodySpinSunAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/11036/trunk/src/base/coordsystem/BodySpinSunAxes.hpp
+END
+EquatorAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/10885/trunk/src/base/coordsystem/EquatorAxes.hpp
+END
+MODEcAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10899/trunk/src/base/coordsystem/MODEcAxes.cpp
+END
+ICRFAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/ICRFAxes.hpp
+END
+GeocentricSolarMagneticAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/GeocentricSolarMagneticAxes.cpp
+END
+MOEEcAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MOEEcAxes.hpp
+END
+TopocentricAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TopocentricAxes.hpp
+END
+TODEcAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TODEcAxes.cpp
+END
+MJ2000EqAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MJ2000EqAxes.cpp
+END
+CoordinateBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/11232/trunk/src/base/coordsystem/CoordinateBase.cpp
+END
+MeanOfDateAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MeanOfDateAxes.cpp
+END
+TOEEcAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TOEEcAxes.hpp
+END
+ITRFAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/10906/trunk/src/base/coordsystem/ITRFAxes.cpp
+END
+MODEqAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10899/trunk/src/base/coordsystem/MODEqAxes.cpp
+END
+GeocentricSolarEclipticAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/GeocentricSolarEclipticAxes.hpp
+END
+TrueOfDateAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/10276/trunk/src/base/coordsystem/TrueOfDateAxes.hpp
+END
+LocalAlignedConstrainedAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/11982/trunk/src/base/coordsystem/LocalAlignedConstrainedAxes.cpp
+END
+MOEEqAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/MOEEqAxes.hpp
+END
+TODEqAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TODEqAxes.cpp
+END
+InertialAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/10885/trunk/src/base/coordsystem/InertialAxes.hpp
+END
+CoordinateSystem.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11849/trunk/src/base/coordsystem/CoordinateSystem.hpp
+END
+TOEEqAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10889/trunk/src/base/coordsystem/TOEEqAxes.hpp
+END
+AxisSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11903/trunk/src/base/coordsystem/AxisSystem.cpp
+END
+ObjectReferencedAxes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gmat/code/!svn/ver/11232/trunk/src/base/coordsystem/ObjectReferencedAxes.cpp
+END
+DynamicAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/10885/trunk/src/base/coordsystem/DynamicAxes.hpp
+END
+CoordinateSystemException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gmat/code/!svn/ver/10885/trunk/src/base/coordsystem/CoordinateSystemException.cpp
+END
+BodyInertialAxes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11077/trunk/src/base/coordsystem/BodyInertialAxes.hpp
+END
+CoordinateConverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/gmat/code/!svn/ver/12038/trunk/src/base/coordsystem/CoordinateConverter.cpp
+END
+IAUFile.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/10899/trunk/src/base/coordsystem/IAUFile.hpp
+END
+ICRFFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/11422/trunk/src/base/coordsystem/ICRFFile.cpp
+END
+ItrfCoefficientsFile.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gmat/code/!svn/ver/11426/trunk/src/base/coordsystem/ItrfCoefficientsFile.hpp
+END

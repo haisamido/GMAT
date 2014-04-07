@@ -1,0 +1,296 @@
+%General Mission Analysis Tool(GMAT) Script
+%Created: 2012-05-09 04:32:49
+
+
+%----------------------------------------
+%---------- Spacecraft
+%----------------------------------------
+
+Create Spacecraft LRO;
+GMAT LRO.DateFormat = UTCGregorian;
+GMAT LRO.Epoch = '13 Mar 2011 15:00:00.000';
+GMAT LRO.CoordinateSystem = MoonCenteredMoonEq;
+GMAT LRO.DisplayStateType = ModifiedKeplerian;
+GMAT LRO.RadPer = 1785.776490875847;
+GMAT LRO.RadApo = 1791.281660663901;
+GMAT LRO.INC = 88.15384548660302;
+GMAT LRO.RAAN = 8.182325796007689;
+GMAT LRO.AOP = 270.4079993159095;
+GMAT LRO.TA = 98.40083822981806;
+GMAT LRO.DryMass = 1145.76;
+GMAT LRO.Cd = 2.2;
+GMAT LRO.Cr = 1;
+GMAT LRO.DragArea = 15;
+GMAT LRO.SRPArea = 14;
+GMAT LRO.NAIFId = -123456789;
+GMAT LRO.NAIFIdReferenceFrame = -123456789;
+GMAT LRO.Id = 'SatId';
+GMAT LRO.Attitude = CoordinateSystemFixed;
+GMAT LRO.ModelFile = '../data/vehicle/models/aura.3ds';
+GMAT LRO.ModelOffsetX = 0;
+GMAT LRO.ModelOffsetY = 0;
+GMAT LRO.ModelOffsetZ = 0;
+GMAT LRO.ModelRotationX = 0;
+GMAT LRO.ModelRotationY = 0;
+GMAT LRO.ModelRotationZ = 0;
+GMAT LRO.ModelScale = 3;
+GMAT LRO.AttitudeDisplayStateType = 'Quaternion';
+GMAT LRO.AttitudeRateDisplayStateType = 'AngularVelocity';
+GMAT LRO.AttitudeCoordinateSystem = 'EarthMJ2000Eq';
+
+
+%----------------------------------------
+%---------- ForceModels
+%----------------------------------------
+
+Create ForceModel LunarProp_ForceModel;
+GMAT LunarProp_ForceModel.CentralBody = Luna;
+GMAT LunarProp_ForceModel.PrimaryBodies = {Luna};
+GMAT LunarProp_ForceModel.PointMasses = {Earth, Sun};
+GMAT LunarProp_ForceModel.Drag = None;
+GMAT LunarProp_ForceModel.SRP = On;
+GMAT LunarProp_ForceModel.RelativisticCorrection = Off;
+GMAT LunarProp_ForceModel.ErrorControl = RSSStep;
+GMAT LunarProp_ForceModel.GravityField.Luna.Degree = 50;
+GMAT LunarProp_ForceModel.GravityField.Luna.Order = 50;
+GMAT LunarProp_ForceModel.GravityField.Luna.PotentialFile = 'LP165P.cof';
+GMAT LunarProp_ForceModel.SRP.Flux = 1367;
+GMAT LunarProp_ForceModel.SRP.Nominal_Sun = 149597870.691;
+
+%----------------------------------------
+%---------- Propagators
+%----------------------------------------
+
+Create Propagator LunarProp;
+GMAT LunarProp.FM = LunarProp_ForceModel;
+GMAT LunarProp.Type = PrinceDormand78;
+GMAT LunarProp.InitialStepSize = 60;
+GMAT LunarProp.Accuracy = 9.999999999999999e-012;
+GMAT LunarProp.MinStep = 1e-008;
+GMAT LunarProp.MaxStep = 86400;
+GMAT LunarProp.MaxStepAttempts = 50;
+GMAT LunarProp.StopIfAccuracyIsViolated = true;
+
+%----------------------------------------
+%---------- Burns
+%----------------------------------------
+
+Create ImpulsiveBurn dV1;
+GMAT dV1.CoordinateSystem = Local;
+GMAT dV1.Origin = Luna;
+GMAT dV1.Axes = VNB;
+GMAT dV1.Element1 = 0;
+GMAT dV1.Element2 = 0;
+GMAT dV1.Element3 = 0;
+GMAT dV1.DecrementMass = false;
+GMAT dV1.Isp = 220;
+GMAT dV1.GravitationalAccel = 9.806649999999999;
+
+Create ImpulsiveBurn dV2;
+GMAT dV2.CoordinateSystem = Local;
+GMAT dV2.Origin = Luna;
+GMAT dV2.Axes = VNB;
+GMAT dV2.Element1 = 0;
+GMAT dV2.Element2 = 0;
+GMAT dV2.Element3 = 0;
+GMAT dV2.DecrementMass = false;
+GMAT dV2.Isp = 220;
+GMAT dV2.GravitationalAccel = 9.806649999999999;
+
+%----------------------------------------
+%---------- Arrays, Variables, Strings
+%----------------------------------------
+
+%----------------------------------------
+%---------- Variables, Arrays, Strings
+%----------------------------------------
+
+Create Variable aopGoal perigeeGoal apogeeGoal t1 t2 tRef propEpoch dV Count perigeeError;
+Create Variable apogeeError aopError propFlag TA1 TA2 passFlag;
+GMAT aopGoal = 200;
+GMAT perigeeGoal = 1757.4;
+GMAT apogeeGoal = 1917.4;
+GMAT t1 = 0;
+GMAT t2 = 0;
+GMAT tRef = 0;
+
+
+%----------------------------------------
+%---------- Coordinate Systems
+%----------------------------------------
+
+Create CoordinateSystem MoonCenterEarthEq;
+GMAT MoonCenterEarthEq.Origin = Luna;
+GMAT MoonCenterEarthEq.Axes = MJ2000Eq;
+
+Create CoordinateSystem MoonCenteredMoonEq;
+GMAT MoonCenteredMoonEq.Origin = Luna;
+GMAT MoonCenteredMoonEq.Axes = BodyInertial;
+
+Create CoordinateSystem MoonFixed;
+GMAT MoonFixed.Origin = Luna;
+GMAT MoonFixed.Axes = BodyFixed;
+
+%----------------------------------------
+%---------- Solvers
+%----------------------------------------
+
+Create VF13ad NLP;
+GMAT NLP.ShowProgress = true;
+GMAT NLP.ReportStyle = Normal;
+GMAT NLP.ReportFile = 'VF13adVF13ad1.data';
+GMAT NLP.MaximumIterations = 200;
+GMAT NLP.Tolerance = 1e-007;
+GMAT NLP.UseCentralDifferences = false;
+GMAT NLP.FeasibilityTolerance = 1;
+
+%----------------------------------------
+%---------- Subscribers
+%----------------------------------------
+
+Create OrbitView DefaultOpenGL;
+GMAT DefaultOpenGL.SolverIterations = All;
+GMAT DefaultOpenGL.UpperLeft = [ 0.2996146435452794 0 ];
+GMAT DefaultOpenGL.Size = [ 0.3535645472061657 0.4509803921568628 ];
+GMAT DefaultOpenGL.RelativeZOrder = 1956;
+GMAT DefaultOpenGL.Add = {LRO, Luna};
+GMAT DefaultOpenGL.CoordinateSystem = MoonCenterEarthEq;
+GMAT DefaultOpenGL.DrawObject = [ true true ];
+GMAT DefaultOpenGL.OrbitColor = [ 2147483647 2147483647 ];
+GMAT DefaultOpenGL.TargetColor = [ 2147483647 8421440 ];
+GMAT DefaultOpenGL.DataCollectFrequency = 1;
+GMAT DefaultOpenGL.UpdatePlotFrequency = 50;
+GMAT DefaultOpenGL.NumPointsToRedraw = 200;
+GMAT DefaultOpenGL.ShowPlot = true;
+GMAT DefaultOpenGL.ViewPointReference = Luna;
+GMAT DefaultOpenGL.ViewPointVector = [ 7000 7000 7000 ];
+GMAT DefaultOpenGL.ViewDirection = Luna;
+GMAT DefaultOpenGL.ViewScaleFactor = 1;
+GMAT DefaultOpenGL.ViewUpCoordinateSystem = MoonCenterEarthEq;
+GMAT DefaultOpenGL.ViewUpAxis = Z;
+GMAT DefaultOpenGL.EclipticPlane = Off;
+GMAT DefaultOpenGL.XYPlane = Off;
+GMAT DefaultOpenGL.WireFrame = Off;
+GMAT DefaultOpenGL.Axes = On;
+GMAT DefaultOpenGL.Grid = Off;
+GMAT DefaultOpenGL.SunLine = Off;
+GMAT DefaultOpenGL.UseInitialView = On;
+GMAT DefaultOpenGL.StarCount = 7000;
+GMAT DefaultOpenGL.EnableStars = On;
+GMAT DefaultOpenGL.EnableConstellations = On;
+
+Create XYPlot ApoPerIterations;
+GMAT ApoPerIterations.SolverIterations  = All;
+GMAT ApoPerIterations.UpperLeft = [ 0.3198458574181118 0.469187675070028 ];
+GMAT ApoPerIterations.Size = [ 0.325626204238921 0.453781512605042 ];
+GMAT ApoPerIterations.RelativeZOrder = 1987;
+GMAT ApoPerIterations.XVariable = Count;
+GMAT ApoPerIterations.YVariables = {perigeeError, apogeeError};
+GMAT ApoPerIterations.ShowGrid = true;
+GMAT ApoPerIterations.ShowPlot = true;
+
+Create XYPlot dVIterations;
+GMAT dVIterations.SolverIterations  = All;
+GMAT dVIterations.UpperLeft = [ 0.002890173410404624 0.4719887955182073 ];
+GMAT dVIterations.Size = [ 0.3198458574181118 0.4481792717086835 ];
+GMAT dVIterations.RelativeZOrder = 1983;
+GMAT dVIterations.XVariable = Count;
+GMAT dVIterations.YVariables = {dV};
+GMAT dVIterations.ShowGrid = true;
+GMAT dVIterations.ShowPlot = true;
+
+Create XYPlot AOPPerIteration;
+GMAT AOPPerIteration.SolverIterations  = All;
+GMAT AOPPerIteration.UpperLeft = [ 0.6454720616570328 0.4677871148459384 ];
+GMAT AOPPerIteration.Size = [ 0.3391136801541426 0.4453781512605042 ];
+GMAT AOPPerIteration.RelativeZOrder = 1989;
+GMAT AOPPerIteration.XVariable = Count;
+GMAT AOPPerIteration.YVariables = {aopError};
+GMAT AOPPerIteration.ShowGrid = true;
+GMAT AOPPerIteration.ShowPlot = true;
+
+Create XYPlot ManeuverLocations;
+GMAT ManeuverLocations.SolverIterations  = All;
+GMAT ManeuverLocations.UpperLeft = [ 0.6319845857418112 0.00700280112044818 ];
+GMAT ManeuverLocations.Size = [ 0.3535645472061657 0.4509803921568628 ];
+GMAT ManeuverLocations.RelativeZOrder = 1975;
+GMAT ManeuverLocations.XVariable = Count;
+GMAT ManeuverLocations.YVariables = {TA1, TA2};
+GMAT ManeuverLocations.ShowGrid = true;
+GMAT ManeuverLocations.ShowPlot = true;
+
+Create ReportFile Data;
+GMAT Data.SolverIterations = Current;
+GMAT Data.UpperLeft = [ 0 0 ];
+GMAT Data.Size = [ 0 0 ];
+GMAT Data.RelativeZOrder = 0;
+GMAT Data.Filename = 'Ex_OptimalLunarApsidesRotation_3Burn.report';
+GMAT Data.Precision = 16;
+GMAT Data.WriteHeaders = On;
+GMAT Data.LeftJustify = On;
+GMAT Data.ZeroFill = Off;
+GMAT Data.ColumnWidth = 23;
+GMAT Data.WriteReport = true;
+
+%----------------------------------------
+%---------- Mission Sequence
+%----------------------------------------
+BeginMissionSequence;
+Propagate LunarProp(LRO) {LRO.Luna.TA = 150};
+GMAT tRef = LRO.TAIModJulian;
+GMAT Count = 0;
+Optimize NLP {SolveMode = Solve, ExitMode = DiscardAndContinue};
+   
+   GMAT Count = Count + 1;
+   Vary NLP(t1 = 0, {Perturbation = .00001, MaxStep = .004, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+   Vary NLP(t2 = 0.22, {Perturbation = .00001, MaxStep = .004, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+   Vary NLP(dV1.Element1 = 0.015, {Perturbation = 0.00001, MaxStep = 0.005, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+   Vary NLP(dV2.Element1 = -0.01, {Perturbation = 0.00001, MaxStep = 0.005, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
+   
+   
+   Report Data Count t1 t2 dV1.Element1 dV1.Element2 dV1.Element3 dV2.Element1 dV2.Element2 dV2.Element3;
+   % Prop to and perform first maneuver
+   GMAT propEpoch = tRef + t1;
+   Report Data propEpoch LRO.TAIModJulian;
+   GMAT propFlag = 1;
+   If propEpoch > LRO.TAIModJulian
+      GMAT propFlag = 0;
+      Propagate LunarProp(LRO) {LRO.TAIModJulian = propEpoch};
+   EndIf;
+   If propEpoch < LRO.TAIModJulian & propFlag == 1
+      Propagate BackProp LunarProp(LRO) {LRO.TAIModJulian = propEpoch};
+   EndIf;
+   GMAT TA1 = LRO.Luna.TA;
+   Report Data LRO.UTCModJulian LRO.Luna.TA;
+   Maneuver dV1(LRO);
+   Report Data dV1.Element1;
+   
+   % Prop to and perform second maneuver
+   GMAT propEpoch = tRef + t2;
+   Report Data propEpoch LRO.TAIModJulian;
+   GMAT propFlag = 1;
+   If propEpoch > LRO.TAIModJulian
+      Propagate LunarProp(LRO) {LRO.TAIModJulian = propEpoch};
+      GMAT propFlag = 0;
+   EndIf;
+   If propEpoch < LRO.TAIModJulian & propFlag == 1
+      Propagate BackProp LunarProp(LRO) {LRO.TAIModJulian = propEpoch};
+   EndIf;
+   GMAT TA2 = LRO.Luna.TA;
+   Report Data LRO.UTCModJulian LRO.Luna.TA;
+   Maneuver dV2(LRO);
+   Report Data dV2.Element1;
+   
+   %  Define the constraints
+   GMAT 'Compute perigee error' perigeeError = LRO.Luna.RadPer - perigeeGoal;
+   GMAT 'Compute apogee error' apogeeError = LRO.Luna.RadApo - apogeeGoal;
+   GMAT aopError = LRO.MoonCenterEarthEq.AOP - aopGoal;
+   NonlinearConstraint NLP(perigeeError=0);
+   NonlinearConstraint NLP(apogeeError=0);
+   NonlinearConstraint NLP(aopError=0);
+   GMAT dV = sqrt(dV1.Element1^2 + dV1.Element2^2 + dV1.Element3^2) + sqrt(dV2.Element1^2 + dV2.Element2^2 + dV2.Element3^2);
+   Minimize NLP(dV);
+
+EndOptimize;  % For optimizer NLP
+
+

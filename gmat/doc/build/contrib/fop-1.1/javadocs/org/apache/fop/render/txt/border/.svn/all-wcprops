@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border
+END
+DashedBorderElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border/DashedBorderElement.html
+END
+SolidAndDoubleBorderElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border/SolidAndDoubleBorderElement.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border/package-summary.html
+END
+BorderManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border/BorderManager.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border/package-tree.html
+END
+AbstractBorderElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border/AbstractBorderElement.html
+END
+DottedBorderElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/render/txt/border/DottedBorderElement.html
+END

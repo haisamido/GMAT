@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use
+END
+InlineLevelEventProducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/InlineLevelEventProducer.html
+END
+InstreamForeignObjectLM.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/InstreamForeignObjectLM.html
+END
+HyphContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/HyphContext.html
+END
+AbstractGraphicsLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/AbstractGraphicsLayoutManager.html
+END
+TextLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/TextLayoutManager.html
+END
+PageNumberLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/PageNumberLayoutManager.html
+END
+ImageLayout.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/ImageLayout.html
+END
+LineLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/LineLayoutManager.html
+END
+AlignmentContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/AlignmentContext.html
+END
+ICLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/ICLayoutManager.html
+END
+CharacterLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/CharacterLayoutManager.html
+END
+LeaderLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/LeaderLayoutManager.html
+END
+FootnoteLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/FootnoteLayoutManager.html
+END
+BasicLinkLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/BasicLinkLayoutManager.html
+END
+LineLayoutPossibilities.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/LineLayoutPossibilities.html
+END
+LeafNodeLayoutManager.AreaInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/LeafNodeLayoutManager.AreaInfo.html
+END
+InlineStackingLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/InlineStackingLayoutManager.html
+END
+AbstractPageNumberCitationLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/AbstractPageNumberCitationLayoutManager.html
+END
+PageNumberCitationLastLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/PageNumberCitationLastLayoutManager.html
+END
+InlineLevelLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/InlineLevelLayoutManager.html
+END
+BidiLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/BidiLayoutManager.html
+END
+KnuthInlineBox.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/KnuthInlineBox.html
+END
+ContentLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/ContentLayoutManager.html
+END
+InlineLevelEventProducer.Provider.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/InlineLevelEventProducer.Provider.html
+END
+LeafNodeLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/LeafNodeLayoutManager.html
+END
+InlineLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/InlineLayoutManager.html
+END
+ExternalGraphicLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/ExternalGraphicLayoutManager.html
+END
+PageNumberCitationLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/PageNumberCitationLayoutManager.html
+END
+WrapperLayoutManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/layoutmgr/inline/class-use/WrapperLayoutManager.html
+END

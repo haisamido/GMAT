@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/gmat/code/!svn/ver/12120/trunk/src/gui/spacecraft
+END
+OrbitPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/12120/trunk/src/gui/spacecraft/OrbitPanel.cpp
+END
+FormationSetupPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/11203/trunk/src/gui/spacecraft/FormationSetupPanel.cpp
+END
+SpacecraftPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/10828/trunk/src/gui/spacecraft/SpacecraftPanel.hpp
+END
+ThrusterPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/spacecraft/ThrusterPanel.cpp
+END
+SpaceObjectSelectDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gmat/code/!svn/ver/9713/trunk/src/gui/spacecraft/SpaceObjectSelectDialog.cpp
+END
+BallisticsMassPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/spacecraft/BallisticsMassPanel.hpp
+END
+AttitudePanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/12110/trunk/src/gui/spacecraft/AttitudePanel.cpp
+END
+OrbitPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/12108/trunk/src/gui/spacecraft/OrbitPanel.hpp
+END
+FormationSetupPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/spacecraft/FormationSetupPanel.hpp
+END
+VisualModelPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/11444/trunk/src/gui/spacecraft/VisualModelPanel.cpp
+END
+ThrusterPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/spacecraft/ThrusterPanel.hpp
+END
+SpaceObjectSelectDialog.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/spacecraft/SpaceObjectSelectDialog.hpp
+END
+AttitudePanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/12110/trunk/src/gui/spacecraft/AttitudePanel.hpp
+END
+VisualModelPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/10691/trunk/src/gui/spacecraft/VisualModelPanel.hpp
+END
+OrbitSummaryDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11140/trunk/src/gui/spacecraft/OrbitSummaryDialog.cpp
+END
+TankPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/spacecraft/TankPanel.cpp
+END
+OrbitDesignerDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/11140/trunk/src/gui/spacecraft/OrbitDesignerDialog.cpp
+END
+VisualModelCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/11634/trunk/src/gui/spacecraft/VisualModelCanvas.cpp
+END
+OrbitSummaryDialog.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/9799/trunk/src/gui/spacecraft/OrbitSummaryDialog.hpp
+END
+TankPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/spacecraft/TankPanel.hpp
+END
+SpicePanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/11326/trunk/src/gui/spacecraft/SpicePanel.cpp
+END
+OrbitDesignerDialog.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/11140/trunk/src/gui/spacecraft/OrbitDesignerDialog.hpp
+END
+VisualModelCanvas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/10751/trunk/src/gui/spacecraft/VisualModelCanvas.hpp
+END
+SpicePanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/11326/trunk/src/gui/spacecraft/SpicePanel.hpp
+END
+SpacecraftPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/11564/trunk/src/gui/spacecraft/SpacecraftPanel.cpp
+END
+BallisticsMassPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/10737/trunk/src/gui/spacecraft/BallisticsMassPanel.cpp
+END

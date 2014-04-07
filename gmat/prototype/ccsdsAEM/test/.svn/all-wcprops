@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/test
+END
+AEM.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/test/AEM.txt
+END
+TestQuatReader.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/test/TestQuatReader.m
+END
+SpinOnly.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/test/SpinOnly.txt
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/gmat/code/!svn/ver/12037/trunk/src/base/burn
+END
+ManeuverFrame.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/ManeuverFrame.hpp
+END
+VnbManeuverFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/VnbManeuverFrame.cpp
+END
+ImpulsiveBurn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/12015/trunk/src/base/burn/ImpulsiveBurn.cpp
+END
+FiniteBurn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/gmat/code/!svn/ver/12015/trunk/src/base/burn/FiniteBurn.cpp
+END
+Burn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/gmat/code/!svn/ver/12037/trunk/src/base/burn/Burn.cpp
+END
+VnbManeuverFrame.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/VnbManeuverFrame.hpp
+END
+ImpulsiveBurn.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/11571/trunk/src/base/burn/ImpulsiveBurn.hpp
+END
+FiniteBurn.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/gmat/code/!svn/ver/11571/trunk/src/base/burn/FiniteBurn.hpp
+END
+Burn.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/gmat/code/!svn/ver/12015/trunk/src/base/burn/Burn.hpp
+END
+InertialManeuverFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/InertialManeuverFrame.cpp
+END
+BurnException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/BurnException.cpp
+END
+ManeuverFrameManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/ManeuverFrameManager.cpp
+END
+InertialManeuverFrame.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/InertialManeuverFrame.hpp
+END
+BurnException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/BurnException.hpp
+END
+ManeuverFrameManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/ManeuverFrameManager.hpp
+END
+ManeuverFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/9513/trunk/src/base/burn/ManeuverFrame.cpp
+END

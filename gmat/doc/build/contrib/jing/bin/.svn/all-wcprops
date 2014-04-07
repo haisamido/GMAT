@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/bin
+END
+isorelax.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/bin/isorelax.jar
+END
+jing.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/bin/jing.jar
+END
+saxon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/bin/saxon.jar
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/bin/xml-apis.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/gmat/code/!svn/ver/9948/trunk/doc/build/contrib/jing/bin/xercesImpl.jar
+END

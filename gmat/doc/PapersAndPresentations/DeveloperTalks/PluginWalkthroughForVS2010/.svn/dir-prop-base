@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 57
+*.synctex.gz
+PluginWalkthrough.log
+PluginWalkthrough.aux
+
+END

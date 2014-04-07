@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gmat/code/!svn/ver/10499/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon
+END
+DesignPatterns.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/DesignPatterns.zuml
+END
+Estimators.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/Estimators.zuml
+END
+GmatCommands.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GmatCommands.zuml
+END
+GmatAttitude.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GmatAttitude.zuml
+END
+GmatTopLevelDesign.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GmatTopLevelDesign.zuml
+END
+GmatManeuvers.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GmatManeuvers.zuml
+END
+GmatInterpreters.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GmatInterpreters.zuml
+END
+GmatFunctions.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GmatFunctions.zuml
+END
+GMATObjects.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GMATObjects.zuml
+END
+GmatMath.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GmatMath.zuml
+END
+GmatExecComponents.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GmatExecComponents.zuml
+END
+GmatSolvers.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GmatSolvers.zuml
+END
+GMATCoordinateSystems.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GMATCoordinateSystems.zuml
+END
+GMAT_Design_Diagrams.zuml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/gmat/code/!svn/ver/6443/trunk/doc/SystemDocs/ArchitecturalSpecification/Poseidon/GMAT_Design_Diagrams.zuml
+END

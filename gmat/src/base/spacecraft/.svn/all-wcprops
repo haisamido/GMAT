@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/gmat/code/!svn/ver/12128/trunk/src/base/spacecraft
+END
+FormationInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/11219/trunk/src/base/spacecraft/FormationInterface.cpp
+END
+Spacecraft.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/12115/trunk/src/base/spacecraft/Spacecraft.hpp
+END
+TextTrajectoryFile.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/9513/trunk/src/base/spacecraft/TextTrajectoryFile.hpp
+END
+SpaceObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11975/trunk/src/base/spacecraft/SpaceObject.cpp
+END
+FormationInterface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/11219/trunk/src/base/spacecraft/FormationInterface.hpp
+END
+SpaceObjectException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/gmat/code/!svn/ver/9513/trunk/src/base/spacecraft/SpaceObjectException.hpp
+END
+SpaceObject.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/11945/trunk/src/base/spacecraft/SpaceObject.hpp
+END
+Spacecraft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/12128/trunk/src/base/spacecraft/Spacecraft.cpp
+END
+TextTrajectoryFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/9513/trunk/src/base/spacecraft/TextTrajectoryFile.cpp
+END

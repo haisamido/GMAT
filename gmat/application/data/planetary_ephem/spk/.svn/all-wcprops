@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/11682/trunk/application/data/planetary_ephem/spk
+END
+ceres_1900_2100.bsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/9329/trunk/application/data/planetary_ephem/spk/ceres_1900_2100.bsp
+END
+DE421AllPlanets.bsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gmat/code/!svn/ver/10736/trunk/application/data/planetary_ephem/spk/DE421AllPlanets.bsp
+END
+de421.bsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/gmat/code/!svn/ver/9329/trunk/application/data/planetary_ephem/spk/de421.bsp
+END
+SPK.Readme
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gmat/code/!svn/ver/11682/trunk/application/data/planetary_ephem/spk/SPK.Readme
+END

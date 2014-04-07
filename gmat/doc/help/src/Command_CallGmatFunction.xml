@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<refentry version="5.0" xml:id="CallGmatFunction"
+          xmlns="http://docbook.org/ns/docbook"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:xi="http://www.w3.org/2001/XInclude"
+          xmlns:svg="http://www.w3.org/2000/svg"
+          xmlns:m="http://www.w3.org/1998/Math/MathML"
+          xmlns:html="http://www.w3.org/1999/xhtml"
+          xmlns:db="http://docbook.org/ns/docbook">
+  <indexterm>
+    <primary>CallGmatFunction</primary>
+  </indexterm>
+
+  <refmeta>
+    <refentrytitle>CallGmatFunction</refentrytitle>
+
+    <refmiscinfo class="source">GMAT</refmiscinfo>
+
+
+
+    <refmiscinfo class="manual">Commands</refmiscinfo>
+  </refmeta>
+
+  <refnamediv>
+    <refname>CallGmatFunction</refname>
+
+    <refpurpose>Call a GMAT function</refpurpose>
+  </refnamediv>
+
+  <refsynopsisdiv>
+    <synopsis>&lt;incomplete&gt;</synopsis>
+  </refsynopsisdiv>
+
+  <refsection>
+    <title>Definition</title>
+
+    <para>GMAT functions are very useful and work nearly the same as they do
+    in most programming languages. They may be invoked using the
+    CallGmatFunction command covered here.</para>
+  </refsection>
+
+  <refsection>
+    <title>Options</title>
+
+    <variablelist>
+      <varlistentry>
+        <term>OutputList</term>
+
+        <listitem>
+          <para>The OutputList option allows the user to set the output of
+          Function to a user defined parameter.</para>
+
+          <variablelist>
+            <varlistentry>
+              <term>Default</term>
+
+              <listitem>
+                <para>None</para>
+              </listitem>
+            </varlistentry>
+
+            <varlistentry>
+              <term>Limits</term>
+
+              <listitem>
+                <para>Variables, Arrays, S/C, Paramters, any other
+                user-defined parameters, or blank. Multiple outputs must be
+                expressed in a comma delimited list format</para>
+              </listitem>
+            </varlistentry>
+
+            <varlistentry>
+              <term>Units</term>
+
+              <listitem>
+                <para>None</para>
+              </listitem>
+            </varlistentry>
+          </variablelist>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>InputList</term>
+
+        <listitem>
+          <para>The InputList option allows the user to set the input of
+          Function to a user defined parameter.</para>
+
+          <variablelist>
+            <varlistentry>
+              <term>Default</term>
+
+              <listitem>
+                <para>None</para>
+              </listitem>
+            </varlistentry>
+
+            <varlistentry>
+              <term>Limits</term>
+
+              <listitem>
+                <para>Variables, Arrays, S/C, Paramters, any other
+                user-defined parameters, or blank. Multiple inputs must be
+                expressed in a comma delimited list format.</para>
+              </listitem>
+            </varlistentry>
+
+            <varlistentry>
+              <term>Units</term>
+
+              <listitem>
+                <para>None</para>
+              </listitem>
+            </varlistentry>
+          </variablelist>
+        </listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>Function</term>
+
+        <listitem>
+          <para>The Function option allows the user to set the function that
+          will be called in a specific location of the mission sequence. The
+          function has to be defined before it can be used in the CallFunction
+          Command.</para>
+
+          <variablelist>
+            <varlistentry>
+              <term>Default</term>
+
+              <listitem>
+                <para>None</para>
+              </listitem>
+            </varlistentry>
+
+            <varlistentry>
+              <term>Limits</term>
+
+              <listitem>
+                <para>GMAT of Matlab Function</para>
+              </listitem>
+            </varlistentry>
+
+            <varlistentry>
+              <term>Units</term>
+
+              <listitem>
+                <para>None</para>
+              </listitem>
+            </varlistentry>
+          </variablelist>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </refsection>
+
+  <refsection>
+    <title>Examples</title>
+
+    <refsection>
+      <title>Script Syntax</title>
+
+      <programlisting><code>%Function call with Inputs and Outputs
+GMAT [OutputList] = Function(InputList)
+
+%Function call with Outputs only
+GMAT [OutputList] = Function
+
+%Function call with Inputs only
+GMAT Function(InputList)
+
+Function call with no Inputs or Outputs
+GMAT Function</code></programlisting>
+    </refsection>
+
+    <refsection>
+      <title>Script Examples</title>
+
+      <programlisting><code>% Matlab function call without inputs or outputs
+
+% Syntax 1
+GMAT clearAll
+
+% Syntax 2
+GMAT [ ] = clearAll( )</code></programlisting>
+
+      <para/>
+    </refsection>
+  </refsection>
+</refentry>

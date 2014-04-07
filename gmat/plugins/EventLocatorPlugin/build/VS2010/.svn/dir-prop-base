@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 33
+Release
+x64
+*.vcxproj.user
+Debug
+
+END

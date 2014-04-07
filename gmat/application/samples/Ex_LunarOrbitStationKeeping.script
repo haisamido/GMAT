@@ -1,0 +1,192 @@
+%General Mission Analysis Tool(GMAT) Script
+%Created: 2010-11-14 06:33:24
+
+
+%----------------------------------------
+%---------- Spacecraft
+%----------------------------------------
+
+Create Spacecraft LunaSat;
+GMAT LunaSat.DateFormat = TAIModJulian;
+GMAT LunaSat.Epoch = '21545';
+GMAT LunaSat.CoordinateSystem = MoonInertial;
+GMAT LunaSat.DisplayStateType = Keplerian;
+GMAT LunaSat.SMA = 1851.000000000004;
+GMAT LunaSat.ECC = 0.0009999999999744636;
+GMAT LunaSat.INC = 15.33311977007591;
+GMAT LunaSat.RAAN = 201.0833533716489;
+GMAT LunaSat.AOP = 167.2638606069491;
+GMAT LunaSat.TA = 38.03104991952356;
+GMAT LunaSat.DryMass = 850;
+GMAT LunaSat.Cd = 2.2;
+GMAT LunaSat.Cr = 1.8;
+GMAT LunaSat.DragArea = 15;
+GMAT LunaSat.SRPArea = 1;
+GMAT LunaSat.NAIFId = -123456789;
+GMAT LunaSat.NAIFIdReferenceFrame = -123456789;
+GMAT LunaSat.Id = 'SatId';
+GMAT LunaSat.Attitude = CoordinateSystemFixed;
+GMAT LunaSat.ModelFile = '../data/vehicle/models/aura.3ds';
+GMAT LunaSat.ModelOffsetX = 1;
+GMAT LunaSat.ModelOffsetY = 0;
+GMAT LunaSat.ModelOffsetZ = 0;
+GMAT LunaSat.ModelRotationX = 0;
+GMAT LunaSat.ModelRotationY = 0;
+GMAT LunaSat.ModelRotationZ = 0;
+GMAT LunaSat.ModelScale = 0.5;
+GMAT LunaSat.AttitudeDisplayStateType = 'Quaternion';
+GMAT LunaSat.AttitudeRateDisplayStateType = 'AngularVelocity';
+GMAT LunaSat.AttitudeCoordinateSystem = 'EarthMJ2000Eq';
+
+%----------------------------------------
+%---------- ForceModels
+%----------------------------------------
+
+Create ForceModel MoonProp_ForceModel;
+GMAT MoonProp_ForceModel.CentralBody = Luna;
+GMAT MoonProp_ForceModel.PrimaryBodies = {Luna};
+GMAT MoonProp_ForceModel.PointMasses = {Earth, Jupiter, Sun};
+GMAT MoonProp_ForceModel.Drag = None;
+GMAT MoonProp_ForceModel.SRP = On;
+GMAT MoonProp_ForceModel.RelativisticCorrection = Off;
+GMAT MoonProp_ForceModel.ErrorControl = RSSStep;
+GMAT MoonProp_ForceModel.GravityField.Luna.Degree = 80;
+GMAT MoonProp_ForceModel.GravityField.Luna.Order = 80;
+GMAT MoonProp_ForceModel.GravityField.Luna.PotentialFile = 'LP165P.cof';
+GMAT MoonProp_ForceModel.SRP.Flux = 1367;
+GMAT MoonProp_ForceModel.SRP.Nominal_Sun = 149597870.691;
+
+%----------------------------------------
+%---------- Propagators
+%----------------------------------------
+
+Create Propagator MoonProp;
+GMAT MoonProp.FM = MoonProp_ForceModel;
+GMAT MoonProp.Type = PrinceDormand78;
+GMAT MoonProp.InitialStepSize = 60;
+GMAT MoonProp.Accuracy = 9.999999999999999e-012;
+GMAT MoonProp.MinStep = 0.001;
+GMAT MoonProp.MaxStep = 2700;
+GMAT MoonProp.MaxStepAttempts = 50;
+GMAT MoonProp.StopIfAccuracyIsViolated = true;
+
+%----------------------------------------
+%---------- Burns
+%----------------------------------------
+
+Create ImpulsiveBurn dv1;
+GMAT dv1.CoordinateSystem = Local;
+GMAT dv1.Origin = Luna;
+GMAT dv1.Axes = VNB;
+GMAT dv1.Element1 = 0;
+GMAT dv1.Element2 = 0;
+GMAT dv1.Element3 = 0;
+GMAT dv1.DecrementMass = false;
+GMAT dv1.Isp = 300;
+GMAT dv1.GravitationalAccel = 9.810000000000001;
+
+Create ImpulsiveBurn dv2;
+GMAT dv2.CoordinateSystem = Local;
+GMAT dv2.Origin = Luna;
+GMAT dv2.Axes = VNB;
+GMAT dv2.Element1 = 0;
+GMAT dv2.Element2 = 0;
+GMAT dv2.Element3 = 0;
+GMAT dv2.DecrementMass = false;
+GMAT dv2.Isp = 300;
+GMAT dv2.GravitationalAccel = 9.810000000000001;
+
+%----------------------------------------
+%---------- Arrays, Variables, Strings
+%----------------------------------------
+
+%----------------------------------------
+%---------- Variables, Arrays, Strings
+%----------------------------------------
+
+Create Variable I;
+
+
+%----------------------------------------
+%---------- Coordinate Systems
+%----------------------------------------
+
+Create CoordinateSystem MoonInertial;
+GMAT MoonInertial.Origin = Luna;
+GMAT MoonInertial.Axes = BodyInertial;
+
+%----------------------------------------
+%---------- Solvers
+%----------------------------------------
+
+Create DifferentialCorrector DefaultDC;
+GMAT DefaultDC.ShowProgress = true;
+GMAT DefaultDC.ReportStyle = Normal;
+GMAT DefaultDC.ReportFile = 'DifferentialCorrectorDefaultDC.data';
+GMAT DefaultDC.MaximumIterations = 25;
+GMAT DefaultDC.DerivativeMethod = ForwardDifference;
+
+%----------------------------------------
+%---------- Subscribers
+%----------------------------------------
+
+Create OrbitView DefaultOrbitView;
+GMAT DefaultOrbitView.SolverIterations = Current;
+GMAT DefaultOrbitView.UpperLeft = [ 0.4071146245059288 0.01889168765743073 ];
+GMAT DefaultOrbitView.Size = [ 0.4515810276679842 0.4508816120906801 ];
+GMAT DefaultOrbitView.RelativeZOrder = 759;
+GMAT DefaultOrbitView.Add = {LunaSat, Luna};
+GMAT DefaultOrbitView.CoordinateSystem = MoonInertial;
+GMAT DefaultOrbitView.DrawObject = [ true true ];
+GMAT DefaultOrbitView.OrbitColor = [ 16777471 1743054 ];
+GMAT DefaultOrbitView.TargetColor = [ 92307520 8421440 ];
+GMAT DefaultOrbitView.DataCollectFrequency = 3;
+GMAT DefaultOrbitView.UpdatePlotFrequency = 50;
+GMAT DefaultOrbitView.NumPointsToRedraw = 300;
+GMAT DefaultOrbitView.ShowPlot = true;
+GMAT DefaultOrbitView.ViewPointReference = Luna;
+GMAT DefaultOrbitView.ViewPointVector = [ 3500 3500 3500 ];
+GMAT DefaultOrbitView.ViewDirection = Luna;
+GMAT DefaultOrbitView.ViewScaleFactor = 1;
+GMAT DefaultOrbitView.ViewUpCoordinateSystem = MoonInertial;
+GMAT DefaultOrbitView.ViewUpAxis = Z;
+GMAT DefaultOrbitView.EclipticPlane = Off;
+GMAT DefaultOrbitView.XYPlane = Off;
+GMAT DefaultOrbitView.WireFrame = Off;
+GMAT DefaultOrbitView.Axes = On;
+GMAT DefaultOrbitView.Grid = Off;
+GMAT DefaultOrbitView.SunLine = Off;
+GMAT DefaultOrbitView.UseInitialView = On;
+GMAT DefaultOrbitView.StarCount = 7000;
+GMAT DefaultOrbitView.EnableStars = On;
+GMAT DefaultOrbitView.EnableConstellations = On;
+
+Create XYPlot XYPlot1;
+GMAT XYPlot1.SolverIterations = Current;
+GMAT XYPlot1.UpperLeft = [ 0.3863636363636364 0.5 ];
+GMAT XYPlot1.Size = [ 0.5227272727272727 0.4508816120906801 ];
+GMAT XYPlot1.RelativeZOrder = 757;
+GMAT XYPlot1.XVariable = LunaSat.A1ModJulian;
+GMAT XYPlot1.YVariables = {LunaSat.Luna.RadPer};
+GMAT XYPlot1.ShowGrid = true;
+GMAT XYPlot1.ShowPlot = true;
+
+%----------------------------------------
+%---------- Mission Sequence
+%----------------------------------------
+
+BeginMissionSequence;
+For 'For I = 1:3' I = 1:1:3;
+   Propagate 'Prop to RMAG = 1785' MoonProp(LunaSat) {LunaSat.Luna.RMAG = 1825};
+   Target 'Raise Periapsis' DefaultDC {SolveMode = Solve, ExitMode = DiscardAndContinue};
+      Propagate 'Prop to Periapsis' MoonProp(LunaSat) {LunaSat.Luna.Periapsis};
+      Vary 'Vary dv1.V' DefaultDC(dv1.Element1 = 0.02, {Perturbation = 0.0001, Lower = -1, Upper = 1, MaxStep = 0.01});
+      Vary 'Vary dv2.V' DefaultDC(dv2.Element1 = 0.02, {Perturbation = 0.0001, Lower = -1, Upper = 1, MaxStep = 0.01});
+      Maneuver 'Apply dv1' dv1(LunaSat);
+      Propagate 'Prop to Apoapsis' MoonProp(LunaSat) {LunaSat.Luna.Apoapsis};
+      Achieve 'Achieve RMAG = 1850' DefaultDC(LunaSat.Luna.RMAG = 1850, {Tolerance = 0.1});
+      Maneuver 'Apply dv2' dv2(LunaSat);
+      Achieve 'Achieve ECC = 0' DefaultDC(LunaSat.Luna.ECC = 0, {Tolerance = .0001});
+   EndTarget;  % For targeter DefaultDC
+EndFor;
+Propagate 'Prop to RMAG = 1785' MoonProp(LunaSat) {LunaSat.Luna.RadPer = 1825};

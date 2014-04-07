@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/resources/META-INF/services
+END
+org.apache.fop.fo.ElementMapping
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/resources/META-INF/services/org.apache.fop.fo.ElementMapping
+END
+org.apache.xmlgraphics.image.loader.spi.ImagePreloader
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/resources/META-INF/services/org.apache.xmlgraphics.image.loader.spi.ImagePreloader
+END

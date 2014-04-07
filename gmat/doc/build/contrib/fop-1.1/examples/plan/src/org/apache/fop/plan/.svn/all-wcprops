@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan
+END
+PlanDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/PlanDrawer.java
+END
+PlanElementMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/PlanElementMapping.java
+END
+PlanHints.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/PlanHints.java
+END
+PlanRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/PlanRenderer.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/Main.java
+END
+PlanElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/PlanElement.java
+END
+PlanObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/PlanObj.java
+END
+GroupInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/GroupInfo.java
+END
+PreloaderPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/PreloaderPlan.java
+END
+ActionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/ActionInfo.java
+END
+SimplePlanDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/SimplePlanDrawer.java
+END
+EventList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/plan/src/org/apache/fop/plan/EventList.java
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 47
+*.aux
+*.dvi
+*.idx
+*.lof
+*.log
+*.out
+*.ps
+*.toc
+
+END

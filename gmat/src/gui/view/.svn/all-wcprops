@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/gmat/code/!svn/ver/12022/trunk/src/gui/view
+END
+ViewTextDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/11011/trunk/src/gui/view/ViewTextDialog.cpp
+END
+ViewTextFrame.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/11011/trunk/src/gui/view/ViewTextFrame.hpp
+END
+EditorPrintout.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/10625/trunk/src/gui/view/EditorPrintout.hpp
+END
+FindReplaceDialog.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/11009/trunk/src/gui/view/FindReplaceDialog.hpp
+END
+ViewTextDialog.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/11011/trunk/src/gui/view/ViewTextDialog.hpp
+END
+Editor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/gmat/code/!svn/ver/12022/trunk/src/gui/view/Editor.cpp
+END
+EditorPanel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/gmat/code/!svn/ver/11607/trunk/src/gui/view/EditorPanel.cpp
+END
+EditorPreferences.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/10904/trunk/src/gui/view/EditorPreferences.cpp
+END
+ViewTextFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/11011/trunk/src/gui/view/ViewTextFrame.cpp
+END
+Editor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/gmat/code/!svn/ver/10980/trunk/src/gui/view/Editor.hpp
+END
+EditorPanel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/gmat/code/!svn/ver/11607/trunk/src/gui/view/EditorPanel.hpp
+END
+EditorPrintout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/11007/trunk/src/gui/view/EditorPrintout.cpp
+END
+FindReplaceDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/11022/trunk/src/gui/view/FindReplaceDialog.cpp
+END
+EditorPreferences.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/view/EditorPreferences.hpp
+END

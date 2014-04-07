@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris
+END
+GetEmptyMetaDataStruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/GetEmptyMetaDataStruct.m
+END
+GetSegmentNumberByUseableStartTime.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/GetSegmentNumberByUseableStartTime.m
+END
+AttitudeEphemeris.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/AttitudeEphemeris.m
+END
+CloseFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/CloseFile.m
+END
+ParseFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/ParseFile.m
+END
+AddSegment.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/AddSegment.m
+END
+GetState.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/GetState.m
+END
+Ephemeris.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/Ephemeris.m
+END
+Initialize.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/Initialize.m
+END
+OpenFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/OpenFile.m
+END
+GetSegment.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/gmat/code/!svn/ver/11901/trunk/prototype/ccsdsAEM/@AttitudeEphemeris/GetSegment.m
+END

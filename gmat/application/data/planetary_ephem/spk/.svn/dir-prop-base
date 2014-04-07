@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 38
+*.15
+*.bsp
+*.tf
+*.BC
+*.TSC
+*.TF
+*.tsc
+
+END

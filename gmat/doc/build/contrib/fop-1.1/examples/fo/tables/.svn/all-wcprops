@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/fo/tables
+END
+background.fo
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/fo/tables/background.fo
+END
+borders.fo
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/fo/tables/borders.fo
+END
+break.fo
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/fo/tables/break.fo
+END
+keep.fo
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/fo/tables/keep.fo
+END
+omit.fo
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/fo/tables/omit.fo
+END
+headfoot.fo
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/fo/tables/headfoot.fo
+END
+space.fo
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/examples/fo/tables/space.fo
+END

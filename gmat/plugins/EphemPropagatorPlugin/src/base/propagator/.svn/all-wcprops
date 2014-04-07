@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gmat/code/!svn/ver/11560/trunk/plugins/EphemPropagatorPlugin/src/base/propagator
+END
+EphemerisPropagator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11365/trunk/plugins/EphemPropagatorPlugin/src/base/propagator/EphemerisPropagator.cpp
+END
+SPKPropagator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/10306/trunk/plugins/EphemPropagatorPlugin/src/base/propagator/SPKPropagator.hpp
+END
+EphemerisPropagator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11111/trunk/plugins/EphemPropagatorPlugin/src/base/propagator/EphemerisPropagator.hpp
+END
+SPKPropagator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11560/trunk/plugins/EphemPropagatorPlugin/src/base/propagator/SPKPropagator.cpp
+END

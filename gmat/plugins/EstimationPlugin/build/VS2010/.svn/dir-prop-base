@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 61
+Debug
+Release
+ReleaseWithSPICE
+*.cd
+*.vcxproj.user
+*.sdf
+x64
+
+END

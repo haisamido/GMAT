@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/gmat/code/!svn/ver/11403/trunk/src/base/solver
+END
+SolverException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/SolverException.hpp
+END
+Gradient.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/Gradient.hpp
+END
+SteepestDescent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/SteepestDescent.cpp
+END
+Jacobian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/Jacobian.cpp
+END
+SteepestDescent.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/gmat/code/!svn/ver/10352/trunk/src/base/solver/SteepestDescent.hpp
+END
+Solver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/gmat/code/!svn/ver/11403/trunk/src/base/solver/Solver.cpp
+END
+Jacobian.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/Jacobian.hpp
+END
+LineSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/LineSearch.cpp
+END
+InternalOptimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/InternalOptimizer.cpp
+END
+DifferentialCorrector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11028/trunk/src/base/solver/DifferentialCorrector.cpp
+END
+Solver.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/gmat/code/!svn/ver/11403/trunk/src/base/solver/Solver.hpp
+END
+Optimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/11338/trunk/src/base/solver/Optimizer.cpp
+END
+LineSearch.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/LineSearch.hpp
+END
+DerivativeModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/DerivativeModel.cpp
+END
+InternalOptimizer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/InternalOptimizer.hpp
+END
+DifferentialCorrector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/10352/trunk/src/base/solver/DifferentialCorrector.hpp
+END
+ExternalOptimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/ExternalOptimizer.cpp
+END
+Optimizer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/Optimizer.hpp
+END
+DerivativeModel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/DerivativeModel.hpp
+END
+ExternalOptimizer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/ExternalOptimizer.hpp
+END
+Gradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/gmat/code/!svn/ver/9513/trunk/src/base/solver/Gradient.cpp
+END

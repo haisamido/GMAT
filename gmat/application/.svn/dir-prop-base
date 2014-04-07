@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 155
+MyScripts
+bin64
+BugzillaScripts
+GMAT.ini
+gmat_startup_file.txt
+MyGmat.ini
+JiraBugs
+OldBugzillaScripts
+JiraScripts
+bin2013-03-01
+2013-03-01
+input
+plugins64
+
+END

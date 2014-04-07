@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 88
+AddingPhysicalModels.tcp
+AddingPhysicalModels.tps
+*.dvi
+*.aux
+*.log
+*.pdf
+*.ps
+*.kilepr
+
+END

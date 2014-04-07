@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/measurementfile
+END
+DataFile.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/measurementfile/DataFile.hpp
+END
+DataFileAdapter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurementfile/DataFileAdapter.hpp
+END
+GmatObType.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurementfile/GmatObType.hpp
+END
+ObType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurementfile/ObType.cpp
+END
+ObservationData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurementfile/ObservationData.cpp
+END
+B3_obtype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurementfile/B3_obtype.cpp
+END
+ObType.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/gmat/code/!svn/ver/10352/trunk/plugins/EstimationPlugin/src/base/measurementfile/ObType.hpp
+END
+DataFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurementfile/DataFile.cpp
+END
+DataFileAdapter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurementfile/DataFileAdapter.cpp
+END
+ObservationData.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurementfile/ObservationData.hpp
+END
+B3_obtype.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/9521/trunk/plugins/EstimationPlugin/src/base/measurementfile/B3_obtype.hpp
+END
+GmatObType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/10096/trunk/plugins/EstimationPlugin/src/base/measurementfile/GmatObType.cpp
+END

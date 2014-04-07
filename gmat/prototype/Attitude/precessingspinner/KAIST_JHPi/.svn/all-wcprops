@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gmat/code/!svn/ver/11904/trunk/prototype/Attitude/precessingspinner/KAIST_JHPi
+END
+AttitudeHistory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11904/trunk/prototype/Attitude/precessingspinner/KAIST_JHPi/AttitudeHistory.txt
+END
+TestPrecessingSpin.asv
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p/gmat/code/!svn/ver/11904/trunk/prototype/Attitude/precessingspinner/KAIST_JHPi/TestPrecessingSpin.asv
+END
+TestPrecessingSpin.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11904/trunk/prototype/Attitude/precessingspinner/KAIST_JHPi/TestPrecessingSpin.m
+END
+PrecessingSpinPrototype.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/gmat/code/!svn/ver/11904/trunk/prototype/Attitude/precessingspinner/KAIST_JHPi/PrecessingSpinPrototype.m
+END
+ComputeEulerAxisRotationMatrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/gmat/code/!svn/ver/11904/trunk/prototype/Attitude/precessingspinner/KAIST_JHPi/ComputeEulerAxisRotationMatrix.m
+END

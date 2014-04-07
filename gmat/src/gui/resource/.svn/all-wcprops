@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/resource
+END
+GmatRc.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/resource/GmatRc.rc
+END
+GMAT.ico
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/resource/GMAT.ico
+END
+GMATMac.icns
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/resource/GMATMac.icns
+END
+GmatIcon.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/resource/GmatIcon.rc
+END
+TrajectoryPlot.rc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/resource/TrajectoryPlot.rc
+END
+GMATIcon.icns
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/gmat/code/!svn/ver/9514/trunk/src/gui/resource/GMATIcon.icns
+END

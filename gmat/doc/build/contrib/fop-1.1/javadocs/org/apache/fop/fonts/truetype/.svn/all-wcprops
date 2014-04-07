@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype
+END
+TTFFile.PostScriptVersion.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/TTFFile.PostScriptVersion.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/package-frame.html
+END
+TTFSubSetFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/TTFSubSetFile.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/package-tree.html
+END
+FontFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/FontFileReader.html
+END
+TTFOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/TTFOutputStream.html
+END
+TTFFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/TTFFile.html
+END
+TTFGlyphOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/TTFGlyphOutputStream.html
+END
+TTFTableOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/TTFTableOutputStream.html
+END
+TTFDirTabEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/TTFDirTabEntry.html
+END
+TTFTableName.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/TTFTableName.html
+END
+GlyfTable.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/GlyfTable.html
+END
+TTFFontLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/fop-1.1/javadocs/org/apache/fop/fonts/truetype/TTFFontLoader.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/webhelp/docs/search/stemmers
+END
+de_stemmer.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/webhelp/docs/search/stemmers/de_stemmer.js
+END
+en_stemmer.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/webhelp/docs/search/stemmers/en_stemmer.js
+END
+fr_stemmer.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/webhelp/docs/search/stemmers/fr_stemmer.js
+END

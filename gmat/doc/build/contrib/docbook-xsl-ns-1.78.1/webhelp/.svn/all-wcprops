@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/webhelp
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/webhelp/LICENSE
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/webhelp/build.properties
+END
+Makefile.sample
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/webhelp/Makefile.sample
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/gmat/code/!svn/ver/11656/trunk/doc/build/contrib/docbook-xsl-ns-1.78.1/webhelp/build.xml
+END

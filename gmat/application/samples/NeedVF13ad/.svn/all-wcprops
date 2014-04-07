@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/NeedVF13ad
+END
+Ex_AlgebraicOptimization.script
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/gmat/code/!svn/ver/11761/trunk/application/samples/NeedVF13ad/Ex_AlgebraicOptimization.script
+END
+Ex_OptimalLCROSSTrajectory.script
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/NeedVF13ad/Ex_OptimalLCROSSTrajectory.script
+END
+Ex_MinFuelLunarTransfer.script
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/gmat/code/!svn/ver/11761/trunk/application/samples/NeedVF13ad/Ex_MinFuelLunarTransfer.script
+END
+Tut_MultipleShootingTutorial_Step1.script
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11775/trunk/application/samples/NeedVF13ad/Tut_MultipleShootingTutorial_Step1.script
+END
+Tut_MultipleShootingTutorial_Step2.script
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11775/trunk/application/samples/NeedVF13ad/Tut_MultipleShootingTutorial_Step2.script
+END
+Ex_OptimalLunarApsidesRotation_2Burn.script
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/gmat/code/!svn/ver/11761/trunk/application/samples/NeedVF13ad/Ex_OptimalLunarApsidesRotation_2Burn.script
+END
+Tut_MultipleShootingTutorial_Step3.script
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11775/trunk/application/samples/NeedVF13ad/Tut_MultipleShootingTutorial_Step3.script
+END
+Ex_MarsLaunchWindowAnalysis.script
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/NeedVF13ad/Ex_MarsLaunchWindowAnalysis.script
+END
+Tut_MultipleShootingTutorial_Step4.script
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11775/trunk/application/samples/NeedVF13ad/Tut_MultipleShootingTutorial_Step4.script
+END
+Tut_MultipleShootingTutorial_Step5.script
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/gmat/code/!svn/ver/11775/trunk/application/samples/NeedVF13ad/Tut_MultipleShootingTutorial_Step5.script
+END
+Ex_MarsPatchConic.script
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/gmat/code/!svn/ver/12059/trunk/application/samples/NeedVF13ad/Ex_MarsPatchConic.script
+END

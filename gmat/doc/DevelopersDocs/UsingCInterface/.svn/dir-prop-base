@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 151
+UsingCInterface.aux
+UsingCInterface.dvi
+UsingCInterface.log
+UsingCInterface.pdf
+UsingCInterface.ps
+UsingCInterface.tcp
+UsingCInterface.tps
+*.bbl
+*.blg
+
+END

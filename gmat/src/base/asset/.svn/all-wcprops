@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/gmat/code/!svn/ver/11989/trunk/src/base/asset
+END
+AssetException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/9513/trunk/src/base/asset/AssetException.cpp
+END
+GroundstationInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11219/trunk/src/base/asset/GroundstationInterface.cpp
+END
+AssetException.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/9513/trunk/src/base/asset/AssetException.hpp
+END
+GroundstationInterface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/11219/trunk/src/base/asset/GroundstationInterface.hpp
+END
+BodyFixedPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/11989/trunk/src/base/asset/BodyFixedPoint.cpp
+END
+BodyFixedPoint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/11945/trunk/src/base/asset/BodyFixedPoint.hpp
+END

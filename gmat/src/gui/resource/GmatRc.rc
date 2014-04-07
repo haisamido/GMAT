@@ -1,0 +1,4 @@
+//$Id: GmatRc.rc 9514 2011-04-30 21:44:00Z djcinsb $
+
+#include "wx/msw/wx.rc"
+

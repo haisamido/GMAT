@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/plugin
+END
+GmatPluginFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/plugin/GmatPluginFunctions.cpp
+END
+GmatPluginFunctions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/gmat/code/!svn/ver/11978/trunk/plugins/DataInterfacePlugin/src/base/plugin/GmatPluginFunctions.hpp
+END

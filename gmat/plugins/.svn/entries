@@ -1,0 +1,98 @@
+10
+
+dir
+12138
+https://svn.code.sf.net/p/gmat/code/trunk/plugins
+https://svn.code.sf.net/p/gmat/code
+
+
+
+2013-09-13T14:10:53.323903Z
+12135
+jjkparker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+222415a0-0dc2-4184-858d-a27cde375526
+
+MatlabInterfacePlugin
+dir
+
+StationPlugin
+dir
+
+CInterfacePlugin
+dir
+
+EventLocatorPlugin
+dir
+
+ExtraPropagatorsPlugin
+dir
+
+DataInterfacePlugin
+dir
+
+EstimationPlugin
+dir
+
+FminconOptimizerPlugin
+dir
+
+EphemPropagatorPlugin
+dir
+
+SaveCommandPlugin
+dir
+
+FormationPlugin
+dir
+
+GmatFunctionPlugin
+dir
+
+Makefile
+file
+
+
+
+
+2014-04-04T18:55:20.145088Z
+fe3e65109025fe50ee9ea78a36d0daec
+2013-05-15T01:33:56.322371Z
+11887
+djcinsb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4939
+

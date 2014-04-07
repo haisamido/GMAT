@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/gmat/code/!svn/ver/11880/trunk/depends/bin/wx
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/gmat/code/!svn/ver/11048/trunk/depends/bin/wx/configure
+END
+wx-ftp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/gmat/code/!svn/ver/11880/trunk/depends/bin/wx/wx-ftp.txt
+END
+setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/gmat/code/!svn/ver/11048/trunk/depends/bin/wx/setup.h
+END

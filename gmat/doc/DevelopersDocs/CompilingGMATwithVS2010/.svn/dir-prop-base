@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 85
+CompilingGMATwithVS2010.aux
+CompilingGMATwithVS2010.log
+*.bbl
+*.blg
+*.dvi
+*.tps
+*.ps
+
+END

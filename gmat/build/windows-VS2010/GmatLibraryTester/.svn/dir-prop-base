@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 72
+Debug
+GmatLibraryTester.vcxproj.user
+Release
+x64
+*.txt
+ReleaseWithSPICE
+
+END

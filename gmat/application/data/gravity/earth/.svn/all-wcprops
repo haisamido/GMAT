@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/11883/trunk/application/data/gravity/earth
+END
+EGM96low.cof
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/gmat/code/!svn/ver/9329/trunk/application/data/gravity/earth/EGM96low.cof
+END
+JGM2F70.cof
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/gmat/code/!svn/ver/9329/trunk/application/data/gravity/earth/JGM2F70.cof
+END
+JGM2.cof
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/9329/trunk/application/data/gravity/earth/JGM2.cof
+END
+JGM3.cof
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/gmat/code/!svn/ver/9329/trunk/application/data/gravity/earth/JGM3.cof
+END
+EGM96.cof
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/gmat/code/!svn/ver/9329/trunk/application/data/gravity/earth/EGM96.cof
+END

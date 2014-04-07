@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 175
+*.aux
+GMATPreliminaryOD.dvi
+GMATPreliminaryOD.idx
+*.backup
+GMATPreliminaryOD.ilg
+GMATPreliminaryOD.ind
+GMATPreliminaryOD.out
+GMATPreliminaryOD.pdf
+GMATPreliminaryOD.toc
+*.log
+
+END

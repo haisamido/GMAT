@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin
+END
+MinQP.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/gmat/code/!svn/ver/5834/trunk/prototype/NuMin/MinQP.m
+END
+GetConDerivatives.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/GetConDerivatives.m
+END
+GetDerivatives.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/GetDerivatives.m
+END
+UncTrust.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/UncTrust.m
+END
+Numdiff.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/Numdiff.m
+END
+Uncmin.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/Uncmin.m
+END
+WolfeLineSearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/WolfeLineSearch.m
+END
+QRfac.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/QRfac.m
+END
+FindTrustStep.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/FindTrustStep.m
+END
+miNLP.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/miNLP.m
+END
+miNLPWithGraphs.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/gmat/code/!svn/ver/10613/trunk/prototype/NuMin/miNLPWithGraphs.m
+END
+Householder.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/Householder.m
+END
+miNLP_searchdir.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/gmat/code/!svn/ver/5820/trunk/prototype/NuMin/miNLP_searchdir.m
+END

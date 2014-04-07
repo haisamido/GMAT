@@ -1,0 +1,58 @@
+10
+
+dir
+12138
+https://svn.code.sf.net/p/gmat/code/trunk/application/data
+https://svn.code.sf.net/p/gmat/code
+
+
+
+2013-08-08T15:10:52.613559Z
+12097
+tgrubb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+222415a0-0dc2-4184-858d-a27cde375526
+
+vehicle
+dir
+
+graphics
+dir
+
+planetary_coeff
+dir
+
+icrf
+dir
+
+IonosphereData
+dir
+
+gravity
+dir
+
+atmosphere
+dir
+
+gui_config
+dir
+
+planetary_ephem
+dir
+
+time
+dir
+
