@@ -177,8 +177,16 @@ std::string GmatFileUtil::GetApplicationPath()
    char buffer[GmatFile::MAX_PATH_LEN];
    char szTmp[32];
    sprintf(szTmp, "/proc/%d/exe", getpid());
-   int bytes = std::min(readlink(szTmp, buffer, GmatFile::MAX_PATH_LEN),
-                   GmatFile::MAX_PATH_LEN - 1);
+//   int bytes = std::min(readlink(szTmp, buffer, GmatFile::MAX_PATH_LEN),
+//                   GmatFile::MAX_PATH_LEN - 1);
+   
+// Added the below 3 int ... lines to replace std::min above. It is supposed to 
+// be in <algorithm> but for some reason it is not found on Linux CentOS6.5 -- 
+// Haisam Ido
+   int _a = readlink(szTmp, buffer, GmatFile::MAX_PATH_LEN);
+   int _b = GmatFile::MAX_PATH_LEN - 1;   
+   int bytes = ( _a < _b ? _a : _b );
+
    if(bytes >= 0)
    {
       buffer[bytes] = '\0';
