@@ -35,7 +35,6 @@ PATH: /usr/local/sbin
 PATH: /usr/sbin
 PATH: /sbin
 PATH: /home/hido/bin
-PATH: /home/hido/bin
 
 
 ## ----------- ##
@@ -1359,9 +1358,9 @@ configure:25227: result: yes
 configure:25252: checking for cos
 configure:25309: gcc -o conftest    conftest.c  >&5
 conftest.c:79: warning: conflicting types for built-in function 'cos'
-/tmp/cc8FjdKd.o: In function `main':
+/tmp/ccYO98Cv.o: In function `main':
 conftest.c:(.text+0xd): undefined reference to `cos'
-/tmp/cc8FjdKd.o:(.data+0x0): undefined reference to `cos'
+/tmp/ccYO98Cv.o:(.data+0x0): undefined reference to `cos'
 collect2: ld returned 1 exit status
 configure:25315: $? = 1
 configure: failed program was:
@@ -1467,9 +1466,9 @@ configure:25339: result: no
 configure:25353: checking for floor
 configure:25410: gcc -o conftest    conftest.c  >&5
 conftest.c:79: warning: conflicting types for built-in function 'floor'
-/tmp/ccQPuQal.o: In function `main':
+/tmp/ccwhfaRw.o: In function `main':
 conftest.c:(.text+0xd): undefined reference to `floor'
-/tmp/ccQPuQal.o:(.data+0x0): undefined reference to `floor'
+/tmp/ccwhfaRw.o:(.data+0x0): undefined reference to `floor'
 collect2: ld returned 1 exit status
 configure:25416: $? = 1
 configure: failed program was:
@@ -2716,9 +2715,9 @@ configure:39718: checking if more special flags are required for pthreads
 configure:39739: result: no
 configure:39754: checking for thr_setconcurrency
 configure:39811: gcc -o conftest    -pthread   -L/usr/lib64  conftest.c    -lm >&5
-/tmp/ccTaqvyL.o: In function `main':
+/tmp/ccOZSAZT.o: In function `main':
 conftest.c:(.text+0xd): undefined reference to `thr_setconcurrency'
-/tmp/ccTaqvyL.o:(.data+0x0): undefined reference to `thr_setconcurrency'
+/tmp/ccOZSAZT.o:(.data+0x0): undefined reference to `thr_setconcurrency'
 collect2: ld returned 1 exit status
 configure:39817: $? = 1
 configure: failed program was:
@@ -3150,9 +3149,9 @@ configure:41760: $? = 0
 configure:41885: result: six
 configure:42205: checking for dlopen
 configure:42262: gcc -o conftest    -pthread   -L/usr/lib64  conftest.c    -lm >&5
-/tmp/ccSfXdKK.o: In function `main':
+/tmp/ccyzdMmS.o: In function `main':
 conftest.c:(.text+0xd): undefined reference to `dlopen'
-/tmp/ccSfXdKK.o:(.data+0x0): undefined reference to `dlopen'
+/tmp/ccyzdMmS.o:(.data+0x0): undefined reference to `dlopen'
 collect2: ld returned 1 exit status
 configure:42268: $? = 1
 configure: failed program was:
@@ -3347,9 +3346,9 @@ configure:42355: $? = 0
 configure:42368: result: yes
 configure:42574: checking for dlerror
 configure:42631: gcc -o conftest    -pthread   -L/usr/lib64  conftest.c    -lm >&5
-/tmp/cciWPt7Q.o: In function `main':
+/tmp/cckeNpBZ.o: In function `main':
 conftest.c:(.text+0xd): undefined reference to `dlerror'
-/tmp/cciWPt7Q.o:(.data+0x0): undefined reference to `dlerror'
+/tmp/cckeNpBZ.o:(.data+0x0): undefined reference to `dlerror'
 collect2: ld returned 1 exit status
 configure:42637: $? = 1
 configure: failed program was:
@@ -3861,6 +3860,7 @@ config.status:1067: creating contrib/utils/convertrc/Makefile
 config.status:1067: creating contrib/utils/Makefile
 config.status:1067: creating contrib/Makefile
 config.status:1131: creating lib/wx/include/gtk2-ansi-release-2.8/wx/setup.h
+config.status:1919: lib/wx/include/gtk2-ansi-release-2.8/wx/setup.h is unchanged
 config.status:2077: executing wx-config commands
 configure:52697: configuring in src/expat
 configure:52814: running /bin/sh '../../../src/expat/configure' --prefix=/home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat  '--prefix=/home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat' '--with-opengl' --cache-file=/dev/null --srcdir=../../../src/expat

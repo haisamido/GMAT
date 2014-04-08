@@ -1,3 +1,4 @@
+Compiling SPICE in /home/hido/Development/GMAT/cspice
 This script builds the SPICE delivery
 for the cspice package of the toolkit.
 
@@ -4849,3 +4850,4 @@ a - version_main.o
       Compiling and linking:  version.px
  
 Toolkit Build Complete
+Finished compiling SPICE in /home/hido/Development/GMAT/cspice

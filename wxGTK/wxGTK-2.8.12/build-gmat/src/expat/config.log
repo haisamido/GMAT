@@ -35,7 +35,6 @@ PATH: /usr/local/sbin
 PATH: /usr/sbin
 PATH: /sbin
 PATH: /home/hido/bin
-PATH: /home/hido/bin
 
 
 ## ----------- ##
@@ -577,6 +576,7 @@ on localhost.localdomain
 
 config.status:634: creating Makefile
 config.status:731: creating expat_config.h
+config.status:860: expat_config.h is unchanged
 
 ## ---------------- ##
 ## Cache variables. ##
