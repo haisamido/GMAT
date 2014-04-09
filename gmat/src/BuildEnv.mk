@@ -2,8 +2,8 @@
 # Build environment file for Linux
 
 # Flags used to control the build
-USE_SPICE = 0
-CONSOLE_APP = 0
+USE_SPICE = 0 
+CONSOLE_APP = 1
 DEBUG_BUILD = 0
 PROFILE_BUILD = 0
 WX_28_SYNTAX = 1

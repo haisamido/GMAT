@@ -37,7 +37,23 @@ GMAT DefaultSC.ModelRotationZ = 0;
 GMAT DefaultSC.ModelScale = 3;
 GMAT DefaultSC.AttitudeDisplayStateType = 'Quaternion';
 GMAT DefaultSC.AttitudeRateDisplayStateType = 'AngularVelocity';
-GMAT DefaultSC.AttitudeCoordinateSystem = 'EarthMJ2000Eq';
+GMAT DefaultSC.AttitudeCoordinateSystem = EarthMJ2000Eq;
+GMAT DefaultSC.EulerAngleSequence = '321';
+
+%----------------------------------------
+%---------- Hardware Components
+%----------------------------------------
+
+Create FuelTank FuelTank1;
+GMAT FuelTank1.AllowNegativeFuelMass = false;
+GMAT FuelTank1.FuelMass = 756;
+GMAT FuelTank1.Pressure = 1500;
+GMAT FuelTank1.Temperature = 20;
+GMAT FuelTank1.RefTemperature = 20;
+GMAT FuelTank1.Volume = 0.75;
+GMAT FuelTank1.FuelDensity = 1260;
+GMAT FuelTank1.PressureModel = PressureRegulated;
+
 
 %----------------------------------------
 %---------- ForceModels and Propagators
@@ -59,7 +75,7 @@ Create Propagator DefaultProp;
 GMAT DefaultProp.FM = DefaultProp_ForceModel;
 GMAT DefaultProp.Type = RungeKutta89;
 GMAT DefaultProp.InitialStepSize = 120;
-GMAT DefaultProp.Accuracy = 9.999999999999999e-012;
+GMAT DefaultProp.Accuracy = 9.999999999999999e-12;
 GMAT DefaultProp.MinStep = 0.001;
 GMAT DefaultProp.MaxStep = 2700;
 GMAT DefaultProp.MaxStepAttempts = 50;
@@ -78,7 +94,7 @@ GMAT TOI.Element2 = 0;
 GMAT TOI.Element3 = 0;
 GMAT TOI.DecrementMass = false;
 GMAT TOI.Isp = 300;
-GMAT TOI.GravitationalAccel = 9.810000000000001;
+GMAT TOI.GravitationalAccel = 9.81;
 
 Create ImpulsiveBurn GOI;
 GMAT GOI.CoordinateSystem = Local;
@@ -89,7 +105,7 @@ GMAT GOI.Element2 = 0;
 GMAT GOI.Element3 = 0;
 GMAT GOI.DecrementMass = false;
 GMAT GOI.Isp = 300;
-GMAT GOI.GravitationalAccel = 9.810000000000001;
+GMAT GOI.GravitationalAccel = 9.81;
 
 %----------------------------------------
 %---------- Solvers
@@ -108,9 +124,10 @@ GMAT DC.DerivativeMethod = ForwardDifference;
 
 Create OrbitView OpenGLPlot1;
 GMAT OpenGLPlot1.SolverIterations = Current;
-GMAT OpenGLPlot1.UpperLeft = [ 0.3528301886792453 0.0365296803652968 ];
-GMAT OpenGLPlot1.Size = [ 0.5716981132075472 0.852359208523592 ];
-GMAT OpenGLPlot1.RelativeZOrder = 852;
+GMAT OpenGLPlot1.UpperLeft = [ 0.1446428571428572 0.04227212681638045 ];
+GMAT OpenGLPlot1.Size = [ 0.9964285714285714 0.9537648612945839 ];
+GMAT OpenGLPlot1.RelativeZOrder = 47;
+GMAT OpenGLPlot1.Maximized = true;
 GMAT OpenGLPlot1.Add = {Earth, DefaultSC};
 GMAT OpenGLPlot1.CoordinateSystem = EarthMJ2000Eq;
 GMAT OpenGLPlot1.DrawObject = [ true true ];
@@ -146,11 +163,11 @@ Propagate 'Prop to Perigee' DefaultProp(DefaultSC) {DefaultSC.Periapsis};
 
 % Burn in the velocity direction to reach an alternate Apoapsis point
 Target 'Raise and Circularize' DC {SolveMode = Solve, ExitMode = DiscardAndContinue};
-   Vary 'Vary TOI.V' DC(TOI.Element1 = 0.5, {Perturbation = 0.0001, Lower = 0, Upper = 3.14159, MaxStep = 0.2});
+   Vary 'Vary TOI.V' DC(TOI.Element1 = 0.5, {Perturbation = 0.0001, Lower = 0, Upper = 3.14159, MaxStep = 0.2, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
    Maneuver 'Apply TOI' TOI(DefaultSC);
    Propagate 'Prop to Apogee' DefaultProp(DefaultSC) {DefaultSC.Apoapsis};
    Achieve 'Achieve RMAG' DC(DefaultSC.Earth.RMAG = 42165, {Tolerance = 0.1});
-   Vary 'Vary GOI.V' DC(GOI.Element1 = 0.5, {Perturbation = 0.0001, Lower = 0, Upper = 3.14159, MaxStep = 0.2});
+   Vary 'Vary GOI.V' DC(GOI.Element1 = 0.5, {Perturbation = 0.0001, Lower = 0, Upper = 3.14159, MaxStep = 0.2, AdditiveScaleFactor = 0.0, MultiplicativeScaleFactor = 1.0});
    Maneuver 'Apply GOI' GOI(DefaultSC);
    Achieve 'Achieve ECC' DC(DefaultSC.ECC = 0, {Tolerance = 0.1});
 EndTarget;  % For targeter DC
