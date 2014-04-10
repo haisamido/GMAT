@@ -1,5 +1,19 @@
+On the Linux CentOS 6.5 (x86_64) command line execute the below four lines:
+```bash
+export GMAT_BRANCH="x86_64.Linux.CentOS_6.5"
+wget https://github.com/haisamido/GMAT/archive/${GMAT_BRANCH}.zip
+unzip ${GMAT_BRANCH}.zip
+cd ${GMAT_BRANCH}
+./compile.sh
+```
+To execute GMAT follow these steps:
+```bash
+cd gmat/application/bin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:./
+./GMAT
+```
 
-
+IGNORE WHAT IS BELOW FOR NOW
 ```bash
 #-------------------------------------------------------------------------------
 # Compilation attempt of svn co https://svn.code.sf.net/p/gmat/code/trunk gmat on Centos 6.5 *(x86_64)*
