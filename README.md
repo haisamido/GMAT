@@ -1,4 +1,4 @@
-On the Linux CentOS 6.5 (x86_64) command line execute the below four lines:
+On the Linux CentOS 6.5 (x86_64) command line execute the below 5 lines:
 ```bash
 export GMAT_BRANCH="x86_64.Linux.CentOS_6.5"
 wget https://github.com/haisamido/GMAT/archive/${GMAT_BRANCH}.zip
