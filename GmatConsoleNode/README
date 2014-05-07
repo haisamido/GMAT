@@ -21,4 +21,7 @@ got to test directory and run "./test.sh"
 TODO:
 Allow web calls to the API and pass output back to clients.
 Link to the API functions directly without needing to use GmatConsole.so
+The "node_modules" module can be used just like in the test program. If moved, the symlinks inside need to be corrected (TODO)
+Makefile needs to copy in the latest libGmatBase.so and libGmatConsole.so files from where they are built.
+gmat main build folder needs more cleanups to build libGmatBase.so and libGmatConsole.so and the src/console/test.cpp file.
 ...much more
