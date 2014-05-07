@@ -26,11 +26,11 @@ check_dirname()
 
 # set the variables which allow the real wx-config to check if we're using it
 # in place or after installation
-this_prefix=`check_dirname "/home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/lib/wx/config/../../../.."`
+this_prefix=`check_dirname "/home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/lib/wx/config/../../../.."`
 if [ "x$this_prefix" = "x" ]; then
     exit 1
 fi
-this_exec_prefix=`check_dirname "/home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/lib/wx/config/../../../."`
+this_exec_prefix=`check_dirname "/home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/lib/wx/config/../../../."`
 if [ "x$this_exec_prefix" = "x" ]; then
     exit 1
 fi

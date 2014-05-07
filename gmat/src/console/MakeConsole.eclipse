@@ -29,7 +29,7 @@ else
 	TARGET = GmatConsoleP$(EXTENSION)
 endif
 
-all: clean $(TARGET)
+all: clean $(TARGET) sharedConsole testConsole
 
 OBJECTS = driver.o ConsoleAppException.o PrintUtility.o ConsoleMessageReceiver.o
 
@@ -78,3 +78,12 @@ $(TARGET): $(OBJECTS)
 	mkdir -p ../../application/$(GMAT_BIN_DIR)
 	cp $(TARGET) ../../application/$(GMAT_BIN_DIR)/$(TARGET)
 endif
+
+sharedConsole:
+	$(CPP) $(OBJECTS) -shared -W1,-soname=lib$(TARGET).so $(LIBRARIES) $(OPTIMIZATIONS) $(SPICE_LIBRARIES) \
+	$(FORTRAN_LIB) -o lib$(TARGET).so $(CONSOLE_LINK_FLAGS)
+	cp lib$(TARGET).so ../../application/$(GMAT_BIN_DIR)/
+
+testConsole:
+	g++ -fpic -O3 test.cpp  -o test -lGmatConsole -lGmatBase -L.  
+	cp test ../../application/$(GMAT_BIN_DIR)/

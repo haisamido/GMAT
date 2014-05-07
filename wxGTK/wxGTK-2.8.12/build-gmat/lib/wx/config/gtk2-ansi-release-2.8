@@ -365,7 +365,7 @@ is_cross()  { [ "xno" = "xyes" ]; }
 
 
 # Determine the base directories we require.
-prefix=${input_option_prefix-${this_prefix:-/home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat}}
+prefix=${input_option_prefix-${this_prefix:-/home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat}}
 exec_prefix=${input_option_exec_prefix-${input_option_prefix-${this_exec_prefix:-${prefix}}}}
 wxconfdir="${exec_prefix}/lib/wx/config"
 
@@ -991,11 +991,11 @@ fi
 # Additional configuration for individual library components.
 ldflags_gl=""
 
-ldlibs_base="-lwxexpat-2.8 -lwxjpeg-2.8 -lz -ldl -lm"
-ldlibs_core="-pthread -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lgdk_pixbuf-2.0 -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -lXinerama -lXxf86vm -lSM -lpng -lz -ltiff"
+ldlibs_base="-lz -ldl -lm"
+ldlibs_core="-pthread -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lgdk_pixbuf-2.0 -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -lXinerama -lXxf86vm -lSM -lpng -lz -ljpeg -ltiff"
 ldlibs_gl="-lGL -lGLU"
 ldlibs_html=""
-ldlibs_xml=""
+ldlibs_xml=" -lexpat"
 ldlibs_odbc=""
 ldlibs_adv=""
 

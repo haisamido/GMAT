@@ -1,0 +1,358 @@
+********************************************************
+*** Targeter Text File
+*** 
+*** Using Differential Correction
+***
+*** 2 variables
+*** 2 goals
+***
+*** Variables:
+***    TOI.Element1
+***    GOI.Element1
+***    
+*** Goals:
+***    DefaultSC.Earth.RMAG
+***    DefaultSC.ECC
+***    
+*** SolverMode:  Solve
+***    
+********************************************************
+
+Iteration 1
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 0.5
+   GOI.Element1 = 0.5
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 9752.448287632085
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.01403306044556755
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   5734.691728594044   0.2649723269459829
+   0   -0.3106365349266234
+
+
+Inverse Jacobian:
+   0.0001743772895435422   0.0001487434702032074
+   -0   -3.219196351891492
+
+
+New scaled variable estimates:
+   TOI.Element1 = 0.7
+   GOI.Element1 = 0.6721981414477824
+   
+Iteration 2
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 0.7
+   GOI.Element1 = 0.6721981414477824
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 10999.81502437135
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.01160814142590957
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   6782.512494737603   0.2618591178144697
+   0   -0.3303102168259603
+
+
+Inverse Jacobian:
+   0.0001474379886179166   0.0001168840068067586
+   -0   -3.027457066297461
+
+
+New scaled variable estimates:
+   TOI.Element1 = 0.8999999999999999
+   GOI.Element1 = 0.8322812370132502
+   
+Iteration 3
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 0.8999999999999999
+   GOI.Element1 = 0.8322812370132502
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 12485.76992852839
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.008928205626183856
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   8138.402634322119   0.256809796107399
+   0   -0.3523913104234652
+
+
+Inverse Jacobian:
+   0.0001228742352685643   8.954621289683016e-05
+   -0   -2.837754423621598
+
+
+New scaled variable estimates:
+   TOI.Element1 = 1.1
+   GOI.Element1 = 0.9794233543360202
+   
+Iteration 4
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 1.1
+   GOI.Element1 = 0.9794233543360202
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 14284.32520032799
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.005928803956809402
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   9936.501696611231   0.248900256203605
+   0   -0.3774885997052859
+
+
+Inverse Jacobian:
+   0.0001006390408347681   6.635719083282315e-05
+   -0   -2.649086623492003
+
+
+New scaled variable estimates:
+   TOI.Element1 = 1.3
+   GOI.Element1 = 1.11241452059051
+   
+Iteration 5
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 1.3
+   GOI.Element1 = 1.11241452059051
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 16503.71948945191
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.002532707817598758
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   12392.75261708826   0.2366984706653283
+   0   -0.4064487391074395
+
+
+Inverse Jacobian:
+   8.069232323907672e-05   4.699177944816559e-05
+   -0   -2.460334855991921
+
+
+New scaled variable estimates:
+   TOI.Element1 = 1.5
+   GOI.Element1 = 1.229487884685706
+   
+Iteration 6
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 1.5
+   GOI.Element1 = 1.229487884685706
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 19308.78356071743
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.001342588952476474
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   15872.97791451419   -0.2178949257562388
+   0   0.4404886121468234
+
+
+Inverse Jacobian:
+   6.300015065765344e-05   3.116405911898044e-05
+   0   2.270206249206462
+
+
+New scaled variable estimates:
+   TOI.Element1 = 1.7
+   GOI.Element1 = 1.327997826043219
+   
+Iteration 7
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 1.7
+   GOI.Element1 = 1.327997826043219
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 22963.4812031882
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.005746279905552393
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   21037.53671308368   -0.1885845625573725
+   0   0.4814258277133047
+
+
+Inverse Jacobian:
+   4.753408222827149e-05   1.862009387025045e-05
+   0   2.077163173296786
+
+
+New scaled variable estimates:
+   TOI.Element1 = 1.9
+   GOI.Element1 = 1.403726556096321
+   
+Iteration 8
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 1.9
+   GOI.Element1 = 1.403726556096321
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 27918.61494282244
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.0105260527287332
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   29179.53688545822   -0.1417913239858473
+   0   0.5320929645236463
+
+
+Inverse Jacobian:
+   3.427059188517674e-05   9.13237520726869e-06
+   0   1.879370836814663
+
+
+New scaled variable estimates:
+   TOI.Element1 = 2.1
+   GOI.Element1 = 1.448918582136375
+   
+Iteration 9
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 2.1
+   GOI.Element1 = 1.448918582136375
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 35012.66571457547
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.01448529254425758
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   43120.98807306029   -0.06437581685543245
+   0   0.5970393610591797
+
+
+Inverse Jacobian:
+   2.31905632196018e-05   2.500524333857837e-06
+   0   1.674931445434262
+
+
+New scaled variable estimates:
+   TOI.Element1 = 2.265866660413863
+   GOI.Element1 = 1.442541296082273
+   
+Iteration 10
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 2.265866660413863
+   GOI.Element1 = 1.442541296082273
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 43719.36172925901
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.0072662739355846
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   63910.54528605309   0.03609990685097229
+   0   0.6647790527664846
+
+
+Inverse Jacobian:
+   1.564687009826257e-05   -8.496816358847519e-07
+   0   1.504259190837151
+
+
+New scaled variable estimates:
+   TOI.Element1 = 2.241545764350436
+   GOI.Element1 = 1.432931649348403
+   
+Iteration 11
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 2.241545764350436
+   GOI.Element1 = 1.432931649348403
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 42213.19521829358
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 0.0003640268403782472
+   Tolerance: 0.1
+   
+********************************************************
+
+
+Jacobian (Sensitivity matrix):
+   60024.10578730633   0.01216721045686655
+   0   0.6509855031435423
+
+
+Inverse Jacobian:
+   1.66599733037835e-05   -3.113823586148518e-07
+   0   1.53613251780739
+
+
+New scaled variable estimates:
+   TOI.Element1 = 2.240742833300295
+   GOI.Element1 = 1.43238746302229
+   
+Iteration 12
+Running Nominal Pass
+Variables:
+   TOI.Element1 = 2.240742833300295
+   GOI.Element1 = 1.43238746302229
+   
+Goals and achieved values:
+   DefaultSC.Earth.RMAG  Desired: 42165 Achieved: 42165.05520124873
+   Tolerance: 0.1
+   DefaultSC.ECC  Desired: 0 Achieved: 5.13539323638353e-07
+   Tolerance: 0.1
+   
+********************************************************
+
+
+********************************************************
+*** Targeting Completed in 12 iterations
+********************************************************
+

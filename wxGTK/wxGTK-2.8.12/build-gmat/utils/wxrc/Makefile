@@ -7,7 +7,7 @@
 
 
 
-prefix = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
+prefix = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
 exec_prefix = ${prefix}
 datarootdir = @datarootdir@
 INSTALL = /usr/bin/install -c
@@ -17,7 +17,7 @@ SETFILE =
 STRIP = strip
 INSTALL_PROGRAM = ${INSTALL}
 INSTALL_DIR = $(INSTALL) -d
-BK_DEPS = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/bk-deps
+BK_DEPS = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/bk-deps
 srcdir = ../../../utils/wxrc
 top_srcdir = ../../..
 bindir = ${exec_prefix}/bin
@@ -31,10 +31,10 @@ TOOLKIT = GTK
 TOOLKIT_LOWERCASE = gtk
 TOOLKIT_VERSION = 2
 EXTRALIBS = -pthread   -L/usr/lib64  -Wl,--version-script,$(wx_top_builddir)/version-script -lz -ldl -lm 
-EXTRALIBS_XML = 
-EXTRALIBS_GUI = -pthread -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lgdk_pixbuf-2.0 -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -lXinerama -lXxf86vm -lSM -lpng -lz -ltiff
+EXTRALIBS_XML =  -lexpat
+EXTRALIBS_GUI = -pthread -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lgdk_pixbuf-2.0 -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -lXinerama -lXxf86vm -lSM -lpng -lz -ljpeg -ltiff
 HOST_SUFFIX = 
-wx_top_builddir = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
+wx_top_builddir = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
 
 ### Variables: ###
 
@@ -87,8 +87,8 @@ COND_MONOLITHIC_1___WXLIB_MONO_p = \
 COND_wxUSE_REGEX_builtin___LIB_REGEX_p = \
 	-lwxregex$(WXUNICODEFLAG)$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
 #__LIB_REGEX_p = $(COND_wxUSE_REGEX_builtin___LIB_REGEX_p)
-__LIB_EXPAT_p = \
-	-lwxexpat$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
+#__LIB_EXPAT_p = \
+#	-lwxexpat$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
 
 ### Targets: ###
 

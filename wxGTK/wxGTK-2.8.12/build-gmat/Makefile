@@ -7,7 +7,7 @@
 
 
 
-prefix = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
+prefix = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
 exec_prefix = ${prefix}
 datarootdir = @datarootdir@
 INSTALL = /usr/bin/install -c
@@ -28,8 +28,8 @@ INSTALL_PROGRAM = ${INSTALL}
 INSTALL_DATA = ${INSTALL} -m 644
 INSTALL_DIR = $(INSTALL) -d
 ICC_PCH_USE_SWITCH = 
-BK_DEPS = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/bk-deps
-BK_MAKE_PCH = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/bk-make-pch
+BK_DEPS = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/bk-deps
+BK_MAKE_PCH = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/bk-make-pch
 srcdir = ..
 top_srcdir = ..
 bindir = ${exec_prefix}/bin
@@ -59,15 +59,15 @@ TOOLKIT_VERSION = 2
 TOOLCHAIN_NAME = gtk2-2.8
 TOOLCHAIN_FULLNAME = gtk2-ansi-release-2.8
 EXTRALIBS = -pthread   -L/usr/lib64  -Wl,--version-script,$(wx_top_builddir)/version-script -lz -ldl -lm 
-EXTRALIBS_XML = 
+EXTRALIBS_XML =  -lexpat
 EXTRALIBS_HTML = 
 EXTRALIBS_MEDIA = 
 EXTRALIBS_ODBC = 
-EXTRALIBS_GUI = -pthread -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lgdk_pixbuf-2.0 -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -lXinerama -lXxf86vm -lSM -lpng -lz -ltiff
+EXTRALIBS_GUI = -pthread -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lgdk_pixbuf-2.0 -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -lXinerama -lXxf86vm -lSM -lpng -lz -ljpeg -ltiff
 EXTRALIBS_OPENGL =  -lGL -lGLU
 EXTRALIBS_SDL = 
 HOST_SUFFIX = 
-wx_top_builddir = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
+wx_top_builddir = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
 
 ### Variables: ###
 
@@ -1620,7 +1620,7 @@ COND_USE_GUI_1_wxUSE_LIBPNG_builtin___wxpng___depname = \
 #	= uninstall_wxpng
 COND_USE_GUI_1_wxUSE_LIBJPEG_builtin___wxjpeg___depname = \
 	$(LIBDIRNAME)/$(LIBPREFIX)wxjpeg$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)$(LIBEXT)
-__wxjpeg___depname = $(COND_USE_GUI_1_wxUSE_LIBJPEG_builtin___wxjpeg___depname)
+#__wxjpeg___depname = $(COND_USE_GUI_1_wxUSE_LIBJPEG_builtin___wxjpeg___depname)
 #__install_wxjpeg___depname \
 #	= install_wxjpeg
 #__uninstall_wxjpeg___depname \
@@ -1647,7 +1647,7 @@ COND_wxUSE_ODBC_builtin___wxodbc___depname = \
 #	= uninstall_wxodbc
 COND_wxUSE_EXPAT_builtin___wxexpat___depname = \
 	$(LIBDIRNAME)/$(LIBPREFIX)wxexpat$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)$(LIBEXT)
-__wxexpat___depname = $(COND_wxUSE_EXPAT_builtin___wxexpat___depname)
+#__wxexpat___depname = $(COND_wxUSE_EXPAT_builtin___wxexpat___depname)
 #__install_wxexpat___depname \
 #	= install_wxexpat
 #__uninstall_wxexpat___depname \
@@ -11648,8 +11648,8 @@ dll___targetsuf3 \
 #	$(LIBDIRNAME)/wx/include/$(TOOLCHAIN_FULLNAME)
 #__INC_TIFF_p_57 = \
 #	--include-dir $(top_srcdir)/src/tiff
-__INC_JPEG_p_58 = \
-	--include-dir $(top_srcdir)/src/jpeg
+#__INC_JPEG_p_58 = \
+#	--include-dir $(top_srcdir)/src/jpeg
 #__INC_PNG_p_57 = \
 #	--include-dir $(top_srcdir)/src/png
 #__INC_ZLIB_p_59 = \
@@ -11658,14 +11658,14 @@ __INC_JPEG_p_58 = \
 #	--include-dir $(top_srcdir)/src/odbc
 #__INC_REGEX_p_57 = \
 #	--include-dir $(top_srcdir)/src/regex
-__INC_EXPAT_p_57 = \
-	--include-dir $(top_srcdir)/src/expat/lib
+#__INC_EXPAT_p_57 = \
+#	--include-dir $(top_srcdir)/src/expat/lib
 #__LIB_TIFF_p \
 #	= \
 #	-lwxtiff$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
-__LIB_JPEG_p \
-	= \
-	-lwxjpeg$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
+#__LIB_JPEG_p \
+#	= \
+#	-lwxjpeg$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
 #__LIB_PNG_p \
 #	= \
 #	-lwxpng$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
@@ -11676,19 +11676,19 @@ __LIB_JPEG_p \
 COND_wxUSE_REGEX_builtin___LIB_REGEX_p = \
 	-lwxregex$(WXUNICODEFLAG)$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
 #__LIB_REGEX_p = $(COND_wxUSE_REGEX_builtin___LIB_REGEX_p)
-__LIB_EXPAT_p = \
-	-lwxexpat$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
+#__LIB_EXPAT_p = \
+#	-lwxexpat$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
 #__WXUNIV_DEFINE_p = -D__WXUNIVERSAL__
 #__EXCEPTIONS_DEFINE_p = -DwxNO_EXCEPTIONS
 #__RTTI_DEFINE_p = -DwxNO_RTTI
 #__THREAD_DEFINE_p = -DwxNO_THREADS
 #__INC_TIFF_p = -I$(top_srcdir)/src/tiff
-__INC_JPEG_p = -I$(top_srcdir)/src/jpeg
+#__INC_JPEG_p = -I$(top_srcdir)/src/jpeg
 #__INC_PNG_p = -I$(top_srcdir)/src/png
 #__INC_ZLIB_p = -I$(top_srcdir)/src/zlib
 #__INC_ODBC_p = -I$(top_srcdir)/src/odbc
 #__INC_REGEX_p = -I$(top_srcdir)/src/regex
-__INC_EXPAT_p = -I$(top_srcdir)/src/expat/lib
+#__INC_EXPAT_p = -I$(top_srcdir)/src/expat/lib
 
 ### Targets: ###
 
@@ -11871,10 +11871,10 @@ distclean: clean
 #uninstall_wxpng: 
 #	rm -f $(DESTDIR)$(libdir)/$(LIBPREFIX)wxpng$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)$(LIBEXT)
 
-$(LIBDIRNAME)/$(LIBPREFIX)wxjpeg$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)$(LIBEXT): $(WXJPEG_OBJECTS)
-	rm -f $@
-	$(AR) $(AROPTIONS) $@ $(WXJPEG_OBJECTS)
-	$(RANLIB) $@
+#$(LIBDIRNAME)/$(LIBPREFIX)wxjpeg$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)$(LIBEXT): $(WXJPEG_OBJECTS)
+#	rm -f $@
+#	$(AR) $(AROPTIONS) $@ $(WXJPEG_OBJECTS)
+#	$(RANLIB) $@
 
 #install_wxjpeg: $(__wxjpeg___depname)
 #	$(INSTALL_DIR) $(DESTDIR)$(libdir)
@@ -11907,10 +11907,10 @@ $(LIBDIRNAME)/$(LIBPREFIX)wxjpeg$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(H
 #uninstall_wxodbc: 
 #	rm -f $(DESTDIR)$(libdir)/$(LIBPREFIX)wxodbc$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)$(LIBEXT)
 
-$(LIBDIRNAME)/$(LIBPREFIX)wxexpat$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)$(LIBEXT): $(WXEXPAT_OBJECTS)
-	rm -f $@
-	$(AR) $(AROPTIONS) $@ $(WXEXPAT_OBJECTS)
-	$(RANLIB) $@
+#$(LIBDIRNAME)/$(LIBPREFIX)wxexpat$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)$(LIBEXT): $(WXEXPAT_OBJECTS)
+#	rm -f $@
+#	$(AR) $(AROPTIONS) $@ $(WXEXPAT_OBJECTS)
+#	$(RANLIB) $@
 
 #install_wxexpat: $(__wxexpat___depname)
 #	$(INSTALL_DIR) $(DESTDIR)$(libdir)

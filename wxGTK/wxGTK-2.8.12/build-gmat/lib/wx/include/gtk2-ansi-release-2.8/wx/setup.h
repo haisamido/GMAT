@@ -16,10 +16,10 @@
 #endif /* __cplusplus */
 
 /* fill in with the string wxGetOsDescription() will return */
-#define WXWIN_OS_DESCRIPTION "Linux 2.6.32-431.5.1.el6.x86_64 x86_64"
+#define WXWIN_OS_DESCRIPTION "Linux 2.6.32-431.11.2.el6.x86_64 x86_64"
 
 /* the installation location prefix from configure */
-#define wxINSTALL_PREFIX "/home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat"
+#define wxINSTALL_PREFIX "/home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat"
 
 /* Define to `int' if <sys/types.h> doesn't define.  */
 /* #undef gid_t */

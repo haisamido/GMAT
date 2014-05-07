@@ -7,7 +7,7 @@
 
 
 
-prefix = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
+prefix = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
 exec_prefix = ${prefix}
 datarootdir = @datarootdir@
 INSTALL = /usr/bin/install -c
@@ -16,7 +16,7 @@ WINDRES =
 REZ = 
 SETFILE = 
 NM = nm
-BK_DEPS = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/bk-deps
+BK_DEPS = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat/bk-deps
 srcdir = ../../../samples/scroll
 top_srcdir = ../../..
 LIBS = -lz -ldl -lm
@@ -31,11 +31,11 @@ TOOLKIT_LOWERCASE = gtk
 TOOLKIT_VERSION = 2
 TOOLCHAIN_FULLNAME = gtk2-ansi-release-2.8
 EXTRALIBS = -pthread   -L/usr/lib64  -Wl,--version-script,$(wx_top_builddir)/version-script -lz -ldl -lm 
-EXTRALIBS_GUI = -pthread -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lgdk_pixbuf-2.0 -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -lXinerama -lXxf86vm -lSM -lpng -lz -ltiff
+EXTRALIBS_GUI = -pthread -lgtk-x11-2.0 -lgdk-x11-2.0 -latk-1.0 -lgio-2.0 -lpangoft2-1.0 -lgdk_pixbuf-2.0 -lpango-1.0 -lfreetype -lfontconfig -lgobject-2.0 -lgmodule-2.0 -lgthread-2.0 -lrt -lglib-2.0 -lXinerama -lXxf86vm -lSM -lpng -lz -ljpeg -ltiff
 HOST_SUFFIX = 
 SAMPLES_RPATH_FLAG = -Wl,-rpath,$(wx_top_builddir)/lib
 SAMPLES_RPATH_POSTLINK = 
-wx_top_builddir = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
+wx_top_builddir = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
 
 ### Variables: ###
 
@@ -114,9 +114,9 @@ COND_MONOLITHIC_1___WXLIB_MONO_p = \
 #__LIB_TIFF_p \
 #	= \
 #	-lwxtiff$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
-__LIB_JPEG_p \
-	= \
-	-lwxjpeg$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
+#__LIB_JPEG_p \
+#	= \
+#	-lwxjpeg$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
 #__LIB_PNG_p \
 #	= \
 #	-lwxpng$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
@@ -127,8 +127,8 @@ __LIB_JPEG_p \
 COND_wxUSE_REGEX_builtin___LIB_REGEX_p = \
 	-lwxregex$(WXUNICODEFLAG)$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
 #__LIB_REGEX_p = $(COND_wxUSE_REGEX_builtin___LIB_REGEX_p)
-__LIB_EXPAT_p = \
-	-lwxexpat$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
+#__LIB_EXPAT_p = \
+#	-lwxexpat$(WXDEBUGFLAG)$(WX_LIB_FLAVOUR)-$(WX_RELEASE)$(HOST_SUFFIX)
 COND_TOOLKIT_MAC___MACOSX_RESOURCES_p_1 = $(REZ) -d __DARWIN__ -t APPL -d \
 	__WX$(TOOLKIT)__ $(__WXUNIV_DEFINE_p_1) $(__EXCEPTIONS_DEFINE_p_1) \
 	$(__RTTI_DEFINE_p_1) $(__THREAD_DEFINE_p_1) -i $(srcdir) $(__DLLFLAG_p_1) -i \

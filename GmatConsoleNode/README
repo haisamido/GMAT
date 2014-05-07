@@ -1,0 +1,24 @@
+Based on (but modified) http://nodejs.org/api/addons.html
+look there for the latest version of instructions
+
+DEPS:
+Currently requires libGmatBase.so and libGmatConsole.so (custom make file rules) to be in the ./gmat_bind local directory.
+Made changes to Gmat's ./src/console dir to create libGmatConsole.so.
+Changed 
+Gmat's "data" directory needs to be ../ from gmat_bind. (Room for improvement there).
+
+You will need node-gyp
+(to install globally run as root) npm -g install node-gyp
+
+BUILD:
+./make.sh will build everything for you.
+
+
+TEST:
+got to test directory and run "./test.sh"
+
+
+TODO:
+Allow web calls to the API and pass output back to clients.
+Link to the API functions directly without needing to use GmatConsole.so
+...much more

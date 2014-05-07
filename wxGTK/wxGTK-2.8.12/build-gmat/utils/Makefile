@@ -7,7 +7,7 @@
 
 
 
-prefix = /home/hido/Development/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
+prefix = /home/gmsec/ssmo/GMAT/wxGTK/wxGTK-2.8.12/build-gmat
 exec_prefix = ${prefix}
 datarootdir = @datarootdir@
 INSTALL = /usr/bin/install -c
