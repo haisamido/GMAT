@@ -10,4 +10,5 @@
 GMAT
 GmatConsole
 GmatLog.txt
-
+*/cspice/exe
+*/wxGTK-2.8.12/build-gmat/*
