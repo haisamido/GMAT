@@ -7,6 +7,7 @@
 *.so.*
 .deps
 .pch
+a.out
 GMAT
 GmatConsole
 GmatLog.txt
