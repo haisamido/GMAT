@@ -11,5 +11,7 @@ a.out
 GMAT
 GmatConsole
 GmatLog.txt
+compile.log
 */cspice/exe
 */wxGTK-2.8.12/build-gmat/*
+
