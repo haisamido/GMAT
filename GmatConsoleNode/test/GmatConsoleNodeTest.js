@@ -1,4 +1,4 @@
-process.chdir('/home/gmsec/ssmo/GmatConsoleNode/node_modules/gmat-console-node/gmat/');
+process.chdir('./node_modules/gmat-console-node/gmat/');
 var addon = require('gmat-console-node');
 //console.log(addon.RunGmat("--help"));
 

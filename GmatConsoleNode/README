@@ -15,7 +15,7 @@ BUILD:
 
 
 TEST:
-got to test directory and run "./test.sh"
+Goto to test directory and run "cd test; node GmatConsoleNodeTest.js"
 
 
 TODO:
