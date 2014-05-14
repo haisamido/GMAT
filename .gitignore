@@ -7,9 +7,10 @@
 *.so.*
 .deps
 .pch
+a.out
 GMAT
 GmatConsole
 GmatLog.txt
 compile.log
-a.out
-wxGTK/wxGTK-2.8.12/build-gmat/utils/wxrc/wxrc
+*/cspice/exe
+*/wxGTK-2.8.12/build-gmat/*
